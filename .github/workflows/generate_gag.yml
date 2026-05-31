@@ -1,0 +1,36 @@
+name: Generate Daily Gag
+
+on:
+  schedule:
+    # 毎日 UTC 0:00 (日本時間 9:00) に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 手動実行可能にする
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Write permission is needed to commit and push changes back
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run gag generator script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || 'THISISDUMMYKEY' }}
+        run: python generate_gag.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update rss.xml with today's gag" && git push)
