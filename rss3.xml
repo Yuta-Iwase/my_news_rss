@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 May 2026 16:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 17:46:11 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-05-31) 744</title>
+      <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
+      <guid isPermaLink="false">gag-20260531</guid>
+      <pubDate>Sun, 31 May 2026 17:46:11 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：布団が吹っ飛んだ！1405</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-05-31) 169</title>
       <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
