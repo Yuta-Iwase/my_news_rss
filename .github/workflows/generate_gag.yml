@@ -32,5 +32,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add rss.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update rss.xml with today's gag" && git push)
+          git add rss3.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update rss3.xml with today's gag" && git push)

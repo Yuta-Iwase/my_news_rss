@@ -35,7 +35,7 @@ def get_gag():
         return "ダミーのギャグ：アルミ缶の上にあるみかん！"
 
 def update_rss(gag):
-    rss_file = "rss.xml"
+    rss_file = "rss3.xml"
     
     if not os.path.exists(rss_file):
         print(f"Error: {rss_file} not found.")

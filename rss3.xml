@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>今日のギャグフィード</title>
-    <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss.xml</link>
+    <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
     <lastBuildDate>Sun, 31 May 2026 20:57:35 +0900</lastBuildDate>
