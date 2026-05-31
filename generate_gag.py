@@ -1,15 +1,18 @@
+from random import random
 import os
 import urllib.request
 import json
 import xml.etree.ElementTree as ET
 from datetime import datetime
 import email.utils
+import random
 
 def get_gag():
     api_key = os.environ.get("GEMINI_API_KEY", "THISISDUMMYKEY")
     if api_key == "THISISDUMMYKEY":
         print("Warning: Using dummy API key. Falling back to dummy gag.")
-        return "ダミーのギャグ：布団が吹っ飛んだ！"
+        random_int = random.randint(0, 2000)
+        return "ダミーのギャグ：布団が吹っ飛んだ！"+str(random_int)
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     headers = {
@@ -72,7 +75,8 @@ def update_rss(gag):
     item = ET.Element("item")
     
     title = ET.SubElement(item, "title")
-    title.text = f"今日のギャグ ({now.strftime('%Y-%m-%d')})"
+    random_int = int(random.randint(0, 2000))
+    title.text = f"今日のギャグ ({now.strftime('%Y-%m-%d')}) {random_int}"
     
     link = ET.SubElement(item, "link")
     link_el = channel.find("link")
