@@ -79,12 +79,12 @@ def update_rss(gag):
     title.text = f"今日のギャグ ({now.strftime('%Y-%m-%d')}) {random_int}"
     
     link = ET.SubElement(item, "link")
-    link_el = channel.find("link")
-    link.text = link_el.text if link_el is not None else "https://github.com/"
+    base_url = "https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml"
+    link.text = f"{base_url}#{now.strftime('%Y%m%d-%H%M%S')}"
     
     guid = ET.SubElement(item, "guid")
     guid.set("isPermaLink", "false")
-    guid.text = f"gag-{now.strftime('%Y%m%d')}"
+    guid.text = f"gag-{now.strftime('%Y%m%d-%H%M%S')}"
     
     pub_date = ET.SubElement(item, "pubDate")
     pub_date.text = pub_date_str
