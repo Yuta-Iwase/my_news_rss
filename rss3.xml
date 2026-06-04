@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2026 18:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:19:16 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-04) 127</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-201916</link>
+      <guid isPermaLink="false">gag-20260604-201916</guid>
+      <pubDate>Thu, 04 Jun 2026 20:19:16 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>今日のランチ、蕎麦屋で隣のオヤジが「かけそばください」って言ったら、店員さんが「かしこまりました。かけそばですね？」って聞き返してた。なんでかって？「かけ」と「蕎麦」を「かけ」てなかったからさ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-04) 509</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-180201</link>
@@ -238,14 +246,6 @@ This fits all criteria.
       <pubDate>Tue, 02 Jun 2026 23:22:37 +0000</pubDate>
       <category>ギャグ</category>
       <description>ダミーのギャグ：布団が吹っ飛んだ！1580</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-02) 1295</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260602-214425</link>
-      <guid isPermaLink="false">gag-20260602-214425</guid>
-      <pubDate>Tue, 02 Jun 2026 21:44:25 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ダミーのギャグ：布団が吹っ飛んだ！1932</description>
     </item>
   </channel>
 </rss>
