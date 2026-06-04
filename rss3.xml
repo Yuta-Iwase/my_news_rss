@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:13:16 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-04) 1121</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-121316</link>
+      <guid isPermaLink="false">gag-20260604-121316</guid>
+      <pubDate>Thu, 04 Jun 2026 12:13:16 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>鮭がさけんだ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-04) 256</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-090312</link>
@@ -121,14 +129,6 @@
       <pubDate>Tue, 02 Jun 2026 16:20:52 +0000</pubDate>
       <category>ギャグ</category>
       <description>ダミーのギャグ：布団が吹っ飛んだ！1222</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-02) 1552</title>
-      <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml#item-11</link>
-      <guid isPermaLink="false">gag-20260602-12</guid>
-      <pubDate>Tue, 02 Jun 2026 15:04:36 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ダミーのギャグ：布団が吹っ飛んだ！762</description>
     </item>
   </channel>
 </rss>
