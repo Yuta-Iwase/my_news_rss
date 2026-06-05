@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 20:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 22:04:14 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-05) 110</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-220414</link>
+      <guid isPermaLink="false">gag-20260605-220414</guid>
+      <pubDate>Fri, 05 Jun 2026 22:04:14 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>寿司屋で「大将、これ美味しいね！」って言ったら、「ええ、イカしてますから！」だって。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-05) 494</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-203113</link>
@@ -309,14 +317,6 @@ This fits all criteria.
       <pubDate>Thu, 04 Jun 2026 12:13:16 +0000</pubDate>
       <category>ギャグ</category>
       <description>鮭がさけんだ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-04) 256</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-090312</link>
-      <guid isPermaLink="false">gag-20260604-090312</guid>
-      <pubDate>Thu, 04 Jun 2026 09:03:12 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>タイヤのパンクは「タイーヤ」と悲鳴をあげるけど、パン屋のパンクは「パーン！」と音がするんだね。</description>
     </item>
   </channel>
 </rss>
