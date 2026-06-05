@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 11:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:11:41 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-05) 849</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-141141</link>
+      <guid isPermaLink="false">gag-20260605-141141</guid>
+      <pubDate>Fri, 05 Jun 2026 14:11:41 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>今日のランチ、カレーライスだったんだけどさ、食べたら「カレ〜い！」って叫びたくなったよ。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-05) 550</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-114801</link>
@@ -241,14 +249,6 @@ This fits all criteria.
       <category>ギャグ</category>
       <description>海老がいつも怒ってるのはなんで？
 そりゃ、頭に来てるからだよ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-03) 1170</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260603-202902</link>
-      <guid isPermaLink="false">gag-20260603-202902</guid>
-      <pubDate>Wed, 03 Jun 2026 20:29:02 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>TILFのコーヒーは「濃すぎず、薄すぎず」、ちょうどいいって聞いたよ。さすが、"ティル"の味だね！</description>
     </item>
   </channel>
 </rss>
