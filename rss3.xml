@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 16:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 18:30:27 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-05) 304</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-183027</link>
+      <guid isPermaLink="false">gag-20260605-183027</guid>
+      <pubDate>Fri, 05 Jun 2026 18:30:27 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>駅員さんが「えっ？」って聞き返すのは、なんでだと思う？…そこが『駅(えき)』だからね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-05) 1780</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-164307</link>
@@ -309,15 +317,6 @@ This fits all criteria.
       <category>ギャグ</category>
       <description>ねぇ、この消しゴム、すぐ小さくなっちゃうんだよ。
 そりゃ、たくさん消すから、けしからん！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-04) 1144</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-001735</link>
-      <guid isPermaLink="false">gag-20260604-001735</guid>
-      <pubDate>Thu, 04 Jun 2026 00:17:35 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「お父さん、なんでお好み焼き屋さんはいつもあんなに混んでるの？」
-「そりゃあ、みんな『こなきゃ損』だと思ってるからだよ！」</description>
     </item>
   </channel>
 </rss>
