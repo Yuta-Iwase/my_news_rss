@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 22:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 23:21:53 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-05) 1399</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-232153</link>
+      <guid isPermaLink="false">gag-20260605-232153</guid>
+      <pubDate>Fri, 05 Jun 2026 23:21:53 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ねぇ、コックさんがお風呂に入るとどうなると思う？
+…真っ黒焦げになっちゃうんだよ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-05) 110</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-220414</link>
@@ -309,14 +318,6 @@ This fits all criteria.
 - Oyaji gag style.
 - Output is only the text.
 - No extra info.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-04) 1121</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-121316</link>
-      <guid isPermaLink="false">gag-20260604-121316</guid>
-      <pubDate>Thu, 04 Jun 2026 12:13:16 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>鮭がさけんだ！</description>
     </item>
   </channel>
 </rss>
