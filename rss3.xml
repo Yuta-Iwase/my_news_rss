@@ -5,7 +5,85 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 14:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 16:43:07 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-05) 1780</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-164307</link>
+      <guid isPermaLink="false">gag-20260605-164307</guid>
+      <pubDate>Fri, 05 Jun 2026 16:43:07 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>[THOUGHT PROCESS]
+The user wants one interesting "Oyaji Gag" (Dad Joke) in Japanese.
+The output should only be the text of the gag, with no extra explanation, intro, or greeting.
+
+Let's brainstorm some common dad joke types and try to make a Japanese pun.
+
+1.  **Wordplay/Homophones:** This is the most common type for Japanese dad jokes.
+    *   Example: "布団が吹っ飛んだ！" (Futon ga futtOnda! - The futon flew away!) - pun on "futon" and "futto-nda".
+    *   Example: "パンはパンでも食べられないパンはなーんだ？ フライパン！" (Pan wa pan demo taberarenai pan wa na~nda? Furaipan! - What kind of bread can't you eat? A frying pan!) - pun on "pan" (bread) and "furaipan" (frying pan).
+
+2.  **Situational Puns:** Less common but can work.
+
+Let's aim for a classic wordplay pun.
+
+Consider common objects or situations.
+
+*   **Food:**
+    *   Sushi: "この寿司、ネタが新鮮でネターくない！" (Kono sushi, neta ga shinsen de neta-kunai! - This sushi, the topping is fresh and not... sleeping!) - pun on "neta" (sushi topping) and "neta" (past tense of neru - to sleep). A bit weak.
+    *   Tofu: "豆腐は腐るけど、幸福は腐らないね！" (Tōfu wa kusaru kedo, kōfuku wa kusaranai ne! - Tofu spoils, but happiness doesn't!) - pun on "fuku" in tofu and "kōfuku". A bit preachy.
+    *   Rice: "ご飯食べた？ ご飯を食べるのはご飯だよ！" (Gohan tabeta? Gohan wo taberu no wa gohan da yo! - Did you eat rice? Eating rice is rice!) - weak.
+
+*   **Animals:**
+    *   Cat (Neko): "猫が寝込んだ！" (Neko ga nekonda! - The cat fell sick!) - pun on "neko" and "nekonda". A bit too simple.
+    *   Dog (Inu): "犬はワンワンと吠えるけど、犬を飼うとワンダフルだね！" (Inu wa wanwan to hoeru kedo, inu wo kau to wonderful da ne! - Dogs bark "wanwan," but owning a dog is wonderful!) - English pun. Maybe not ideal for a *purely Japanese* dad joke.
+
+*   **Everyday objects/actions:**
+    *   Phone (Denwa): "電話でんわ？ 出んわ！" (Denwa denwa? Denwa! - Phone phone? Not coming out/answering!) - pun on "denwa" (phone) and "denwa" (I'm not coming out / answering). This is a classic and good. Let's refine it.
+        *   Q: "もしもし、電話でんわ？" (Moshimoshi, denwa denwa? - Hello, is that the phone?)
+        *   A: "出んわ！" (Denwa! - I'm not answering!)
+        *   Or even simpler:
+            *   "電話、出んわ！" (Denwa, denwa! - The phone, I'm not answering!) - This implies the phone is ringing but the person isn't picking up. It's a bit self-referential which makes it typical dad joke.
+
+Let's try another one with wordplay, maybe slightly more complex but still easy to get.
+
+*   **Shoes (Kutsu):**
+    *   "靴を履くのは得意だけど、靴を脱ぐのは苦手なんだ。だって、靴脱いだら臭いんだもん！" (Kutsu wo haku no wa tokui dakedo, kutsu wo nugu no wa nigate nanda. Datte, kutsu nuidara kusai n da mon! - I'm good at putting on shoes, but bad at taking them off. Because when I take off my shoes, they stink!) - "Kutsu" (shoes) and "kusai" (stinky). This is okay, a bit long for a *single line gag*.
+
+*   **Train (Densha):**
+    *   "電車が来ないな〜。なんでかって？ まだ『発車』してないからね！" (Densha ga konai na~. Nande ka tte? Mada 'hassha' shitenai kara ne! - The train isn't coming~. Why? Because it hasn't 'departed' yet!) - This isn't a pun, more a literal statement presented as a joke. Not quite an oyaji gag.
+    *   "電車でんわ？" (Densha denwa? - Is it a train?) No, that doesn't work.
+
+Let's go back to the "phone" one. It's a classic for a reason.
+
+"電話に出んわ！" (Denwa ni denwa!)
+This translates to: "I won't answer the phone!" but uses the archaic/dialectal "denwa" (出んわ) for "denai" (出ない). The pun is on "denwa" (電話 - phone) and "denwa" (出んわ - won't come out/answer).
+
+It's concise and fits the criteria.
+
+Another option:
+"このパン、焼きたてだね！ いや、まだ焼けーてないかも？" (Kono pan, yakitate da ne! Iya, mada yake-tenai kamo? - This bread is freshly baked! No, maybe it hasn't baked yet?)
+Pun on 焼きたて (yakitate - freshly baked) and 焼けてない (yaketenai - not baked). Not as strong.
+
+Let's stick with the phone one, it's a solid choice.
+"電話に出んわ！"
+
+Or a slight variation:
+"電話が鳴ってるよ！ …でも、出んわ！" (Denwa ga natteru yo! ...Demo, denwa! - The phone's ringing! ...But, I won't answer!) - This gives a bit more context.
+
+The user asked for *one* gag.
+"電話に出んわ！" is perfect.
+
+Let's double-check the requirements:
+- One interesting "Oyaji Gag"
+- In Japanese
+- Output only the text of the gag
+- No extra explanation, intro, greeting.
+
+"電話に出んわ！" meets all criteria.
+It's a pun where 電話 (denwa - phone) is used, and 出んわ (denwa - won't answer) is used. It's a common and simple dad joke in Japanese.
+
+Final check on "interesting". Oyaji gags are by nature often groan-worthy rather than genuinely hilarious, but the cleverness of the pun is what makes them "interesting" in their own way for the genre. This one is a classic example.</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-05) 849</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-141141</link>
@@ -240,15 +318,6 @@ This fits all criteria.
       <category>ギャグ</category>
       <description>「お父さん、なんでお好み焼き屋さんはいつもあんなに混んでるの？」
 「そりゃあ、みんな『こなきゃ損』だと思ってるからだよ！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-03) 73</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260603-223742</link>
-      <guid isPermaLink="false">gag-20260603-223742</guid>
-      <pubDate>Wed, 03 Jun 2026 22:37:42 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>海老がいつも怒ってるのはなんで？
-そりゃ、頭に来てるからだよ！</description>
     </item>
   </channel>
 </rss>
