@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 20:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 21:14:42 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-06) 151</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-211442</link>
+      <guid isPermaLink="false">gag-20260606-211442</guid>
+      <pubDate>Sat, 06 Jun 2026 21:14:42 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「１足す１は？」
+「田んぼの田！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 1018</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-200011</link>
@@ -193,14 +202,6 @@ thought
       <category>ギャグ</category>
       <description>「コアラって、なんでいつも寝てるの？」
 「そりゃあ、"コアラ"いからさ！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-05) 304</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-183027</link>
-      <guid isPermaLink="false">gag-20260605-183027</guid>
-      <pubDate>Fri, 05 Jun 2026 18:30:27 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>駅員さんが「えっ？」って聞き返すのは、なんでだと思う？…そこが『駅(えき)』だからね！</description>
     </item>
   </channel>
 </rss>
