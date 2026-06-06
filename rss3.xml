@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 22:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 23:31:34 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-06) 696</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-233134</link>
+      <guid isPermaLink="false">gag-20260606-233134</guid>
+      <pubDate>Sat, 06 Jun 2026 23:31:34 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 930</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-221858</link>
@@ -194,14 +202,6 @@ thought
       <category>ギャグ</category>
       <description>ねぇ、コックさんがお風呂に入るとどうなると思う？
 …真っ黒焦げになっちゃうんだよ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-05) 110</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-220414</link>
-      <guid isPermaLink="false">gag-20260605-220414</guid>
-      <pubDate>Fri, 05 Jun 2026 22:04:14 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>寿司屋で「大将、これ美味しいね！」って言ったら、「ええ、イカしてますから！」だって。</description>
     </item>
   </channel>
 </rss>
