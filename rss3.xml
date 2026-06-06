@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 08:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:17:09 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-06) 1286</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-101709</link>
+      <guid isPermaLink="false">gag-20260606-101709</guid>
+      <pubDate>Sat, 06 Jun 2026 10:17:09 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>タイヤがパンクした時、必ず言うセリフはなぁーんだ？「あー、パンク！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 1407</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-080337</link>
@@ -266,15 +274,6 @@ Final check on "interesting". Oyaji gags are by nature often groan-worthy rather
       <pubDate>Thu, 04 Jun 2026 23:06:20 +0000</pubDate>
       <category>ギャグ</category>
       <description>冷蔵庫に象がいたゾウ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-04) 805</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260604-215612</link>
-      <guid isPermaLink="false">gag-20260604-215612</guid>
-      <pubDate>Thu, 04 Jun 2026 21:56:12 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>最近、寒くて布団から出られないんだ。
-わかるよ、俺も寒くてコタツ（答えず）られないよ。</description>
     </item>
   </channel>
 </rss>
