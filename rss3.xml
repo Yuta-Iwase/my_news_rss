@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 17:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:41:45 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-06) 593</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-184145</link>
+      <guid isPermaLink="false">gag-20260606-184145</guid>
+      <pubDate>Sat, 06 Jun 2026 18:41:45 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>アリが10匹います。さて、全部で何匹でしょう？ …ありがとう！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 1922</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-171458</link>
@@ -263,14 +271,6 @@ Let's double-check the requirements:
 It's a pun where 電話 (denwa - phone) is used, and 出んわ (denwa - won't answer) is used. It's a common and simple dad joke in Japanese.
 
 Final check on "interesting". Oyaji gags are by nature often groan-worthy rather than genuinely hilarious, but the cleverness of the pun is what makes them "interesting" in their own way for the genre. This one is a classic example.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-05) 849</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-141141</link>
-      <guid isPermaLink="false">gag-20260605-141141</guid>
-      <pubDate>Fri, 05 Jun 2026 14:11:41 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>今日のランチ、カレーライスだったんだけどさ、食べたら「カレ〜い！」って叫びたくなったよ。</description>
     </item>
   </channel>
 </rss>
