@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 21:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 22:18:58 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-06) 930</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-221858</link>
+      <guid isPermaLink="false">gag-20260606-221858</guid>
+      <pubDate>Sat, 06 Jun 2026 22:18:58 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「ねぇ、ゾウが一番得意なスポーツって何？」
+「そりゃあ、ぞうきんがけだよ！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 151</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-211442</link>
@@ -193,15 +202,6 @@ thought
       <pubDate>Fri, 05 Jun 2026 22:04:14 +0000</pubDate>
       <category>ギャグ</category>
       <description>寿司屋で「大将、これ美味しいね！」って言ったら、「ええ、イカしてますから！」だって。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-05) 494</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-203113</link>
-      <guid isPermaLink="false">gag-20260605-203113</guid>
-      <pubDate>Fri, 05 Jun 2026 20:31:13 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「コアラって、なんでいつも寝てるの？」
-「そりゃあ、"コアラ"いからさ！」</description>
     </item>
   </channel>
 </rss>
