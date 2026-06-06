@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 14:41:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 15:57:56 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-06) 1460</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-155756</link>
+      <guid isPermaLink="false">gag-20260606-155756</guid>
+      <pubDate>Sat, 06 Jun 2026 15:57:56 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>このカレーは辛いが辛い！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 802</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-144102</link>
@@ -264,14 +272,6 @@ Final check on "interesting". Oyaji gags are by nature often groan-worthy rather
       <category>ギャグ</category>
       <description>パンはパンでも食べられないパンはなーんだ？
 フライパン！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-05) 413</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-083951</link>
-      <guid isPermaLink="false">gag-20260605-083951</guid>
-      <pubDate>Fri, 05 Jun 2026 08:39:51 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「お父さん、今日のご飯はカレーだよ！」「お、華麗だね！」</description>
     </item>
   </channel>
 </rss>
