@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 11:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:02:08 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-07) 440</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-130208</link>
+      <guid isPermaLink="false">gag-20260607-130208</guid>
+      <pubDate>Sun, 07 Jun 2026 13:02:08 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-07) 693</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-112726</link>
@@ -128,14 +136,6 @@
       <pubDate>Sat, 06 Jun 2026 11:47:50 +0000</pubDate>
       <category>ギャグ</category>
       <description>---</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-06) 1286</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-101709</link>
-      <guid isPermaLink="false">gag-20260606-101709</guid>
-      <pubDate>Sat, 06 Jun 2026 10:17:09 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>タイヤがパンクした時、必ず言うセリフはなぁーんだ？「あー、パンク！」</description>
     </item>
   </channel>
 </rss>
