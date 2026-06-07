@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 06:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 09:42:06 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-07) 1113</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-094206</link>
+      <guid isPermaLink="false">gag-20260607-094206</guid>
+      <pubDate>Sun, 07 Jun 2026 09:42:06 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>最近スーパーでネギを見ると、つい買っちゃうんだよね。だって、ネギらいの言葉が欲しいから！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-07) 1232</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-061739</link>
@@ -128,15 +136,6 @@
       <pubDate>Sat, 06 Jun 2026 08:03:37 +0000</pubDate>
       <category>ギャグ</category>
       <description>課長のギャグが寒すぎて、体が『カタカナ』になっちゃったよ。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-06) 1035</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-051257</link>
-      <guid isPermaLink="false">gag-20260606-051257</guid>
-      <pubDate>Sat, 06 Jun 2026 05:12:57 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「あそこにパンダがいる！」
-「え？どこどこ？…あ、なんだ。パンだ。」</description>
     </item>
   </channel>
 </rss>
