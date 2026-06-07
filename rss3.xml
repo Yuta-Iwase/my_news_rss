@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 23:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 01:52:02 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-07) 250</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-015202</link>
+      <guid isPermaLink="false">gag-20260607-015202</guid>
+      <pubDate>Sun, 07 Jun 2026 01:52:02 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>お布団が吹っ飛んだ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-06) 696</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-233134</link>
@@ -193,15 +201,6 @@ thought
 - 余計な説明や導入、挨拶なし？ → そうする。
 
 これで決定。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-05) 1399</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260605-232153</link>
-      <guid isPermaLink="false">gag-20260605-232153</guid>
-      <pubDate>Fri, 05 Jun 2026 23:21:53 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねぇ、コックさんがお風呂に入るとどうなると思う？
-…真っ黒焦げになっちゃうんだよ！</description>
     </item>
   </channel>
 </rss>
