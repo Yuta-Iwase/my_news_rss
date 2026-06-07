@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 16:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:42:29 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-07) 1729</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-174229</link>
+      <guid isPermaLink="false">gag-20260607-174229</guid>
+      <pubDate>Sun, 07 Jun 2026 17:42:29 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>考えすぎると頭が「パン」クするぞ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-07) 805</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-161815</link>
@@ -128,14 +136,6 @@
       <pubDate>Sat, 06 Jun 2026 15:57:56 +0000</pubDate>
       <category>ギャグ</category>
       <description>このカレーは辛いが辛い！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-06) 802</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-144102</link>
-      <guid isPermaLink="false">gag-20260606-144102</guid>
-      <pubDate>Sat, 06 Jun 2026 14:41:02 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>傘貸してくれない？「え、かさばるからやだ！」</description>
     </item>
   </channel>
 </rss>
