@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 18:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:13:11 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-07) 432</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-201311</link>
+      <guid isPermaLink="false">gag-20260607-201311</guid>
+      <pubDate>Sun, 07 Jun 2026 20:13:11 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>---</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-07) 1553</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-185759</link>
@@ -128,14 +136,6 @@
       <pubDate>Sat, 06 Jun 2026 18:41:45 +0000</pubDate>
       <category>ギャグ</category>
       <description>アリが10匹います。さて、全部で何匹でしょう？ …ありがとう！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-06) 1922</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260606-171458</link>
-      <guid isPermaLink="false">gag-20260606-171458</guid>
-      <pubDate>Sat, 06 Jun 2026 17:14:58 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>寿司屋で大将が「兄ちゃん、今日はイクラでも食べな！」って言ったから、「いや、そんなにイクラないんで…」って答えたら、大将が「シャリっとしてんな！」って言ってきたよ。</description>
     </item>
   </channel>
 </rss>
