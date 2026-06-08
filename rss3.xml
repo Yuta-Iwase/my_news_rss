@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 11:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:04:04 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-08) 1614</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260608-160404</link>
+      <guid isPermaLink="false">gag-20260608-160404</guid>
+      <pubDate>Mon, 08 Jun 2026 16:04:04 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>最近運動不足でね。
+じゃあ、そろそろ「うどん」でも打つか！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-08) 452</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260608-115943</link>
@@ -117,23 +126,6 @@
       <pubDate>Sun, 07 Jun 2026 09:42:06 +0000</pubDate>
       <category>ギャグ</category>
       <description>最近スーパーでネギを見ると、つい買っちゃうんだよね。だって、ネギらいの言葉が欲しいから！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-07) 1232</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-061739</link>
-      <guid isPermaLink="false">gag-20260607-061739</guid>
-      <pubDate>Sun, 07 Jun 2026 06:17:39 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>SCENE: 飲み会で上司が部下に「最近どう？彼女はできた？」と尋ねる。
-部下「えー、なかなか難しくて…」
-上司「何言ってるんだ！男は度胸、女は愛嬌だろ？頑張れよ！ところで、最近流行りのAIって知ってるか？」
-部下「はい、ChatGPTとかありますよね」
-上司「そうそう。俺も使ってみたんだ。そしたらさ、俺が『好きな芸能人は？』って聞いたらAIがなんて答えたと思う？」
-部下「え、なんですか？」
-上司「『…綾瀬はるかさんと…あと…えーと…』って、まさかのAIが口ごもってたんだよ！」
-部下「……は？」
-上司「もしかして、AIも照れ屋なのかな？それとも…俺の隣に座ってる君がタイプだったのかもな！」
-部下「……（苦笑い）」</description>
     </item>
   </channel>
 </rss>
