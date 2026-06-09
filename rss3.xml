@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Jun 2026 23:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:31:34 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-09) 1573</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-023134</link>
+      <guid isPermaLink="false">gag-20260609-023134</guid>
+      <pubDate>Tue, 09 Jun 2026 02:31:34 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-08) 1559</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260608-235124</link>
@@ -119,14 +127,6 @@
       <pubDate>Sun, 07 Jun 2026 17:42:29 +0000</pubDate>
       <category>ギャグ</category>
       <description>考えすぎると頭が「パン」クするぞ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-07) 805</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-161815</link>
-      <guid isPermaLink="false">gag-20260607-161815</guid>
-      <pubDate>Sun, 07 Jun 2026 16:18:15 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>無事にカエルことができて良かったよ、ケロケロ！</description>
     </item>
   </channel>
 </rss>
