@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 18:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:24:49 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-09) 1690</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-202449</link>
+      <guid isPermaLink="false">gag-20260609-202449</guid>
+      <pubDate>Tue, 09 Jun 2026 20:24:49 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>---</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-09) 77</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-182349</link>
@@ -121,14 +129,6 @@
       <pubDate>Mon, 08 Jun 2026 02:04:12 +0000</pubDate>
       <category>ギャグ</category>
       <description>電卓を落としちゃった！…計算外だよ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-07) 685</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-234746</link>
-      <guid isPermaLink="false">gag-20260607-234746</guid>
-      <pubDate>Sun, 07 Jun 2026 23:47:46 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>このペン、インクが切れちゃったから、もう「書けん」な！</description>
     </item>
   </channel>
 </rss>
