@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 06:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:22:01 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-09) 1462</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-102201</link>
+      <guid isPermaLink="false">gag-20260609-102201</guid>
+      <pubDate>Tue, 09 Jun 2026 10:22:01 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>鮭はなぜいつも川を上るの？…「しゃーないから」！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-09) 315</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-063414</link>
@@ -119,14 +127,6 @@
       <pubDate>Sun, 07 Jun 2026 20:13:11 +0000</pubDate>
       <category>ギャグ</category>
       <description>---</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-07) 1553</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-185759</link>
-      <guid isPermaLink="false">gag-20260607-185759</guid>
-      <pubDate>Sun, 07 Jun 2026 18:57:59 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>寿司屋で「大将、これ美味しいね！」って言ったら、「ええ、シャリっとした味でしょう？」だって。</description>
     </item>
   </channel>
 </rss>
