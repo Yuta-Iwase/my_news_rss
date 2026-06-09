@@ -5,7 +5,17 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 16:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:23:49 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-09) 77</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-182349</link>
+      <guid isPermaLink="false">gag-20260609-182349</guid>
+      <pubDate>Tue, 09 Jun 2026 18:23:49 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>SCENE: ラーメン屋の店主が、客が残したネギを見て一言。
+
+「あれ？ネギは食べるって言ったのに…これは『ネギらい』の気持ちが足りなかったかな？」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-09) 121</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-161704</link>
@@ -119,14 +129,6 @@
       <pubDate>Sun, 07 Jun 2026 23:47:46 +0000</pubDate>
       <category>ギャグ</category>
       <description>このペン、インクが切れちゃったから、もう「書けん」な！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-07) 1137</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260607-224156</link>
-      <guid isPermaLink="false">gag-20260607-224156</guid>
-      <pubDate>Sun, 07 Jun 2026 22:41:56 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>今日の晩御飯はカレーライスにする？それとも「彼」にライスあげる？</description>
     </item>
   </channel>
 </rss>
