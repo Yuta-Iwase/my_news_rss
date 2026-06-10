@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 23:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 01:38:42 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-10) 746</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-013842</link>
+      <guid isPermaLink="false">gag-20260610-013842</guid>
+      <pubDate>Wed, 10 Jun 2026 01:38:42 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「ねぇ、このラーメン、伸びてるね」「大丈夫！麺が伸びたって、俺は『麺（めん）倒見』るから！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-09) 117</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-233720</link>
@@ -123,14 +131,6 @@
       <category>ギャグ</category>
       <description>最近運動不足でね。
 じゃあ、そろそろ「うどん」でも打つか！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-08) 452</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260608-115943</link>
-      <guid isPermaLink="false">gag-20260608-115943</guid>
-      <pubDate>Mon, 08 Jun 2026 11:59:43 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>このプリン、美味しいね！まさに「プリンス」級の味だ！</description>
     </item>
   </channel>
 </rss>
