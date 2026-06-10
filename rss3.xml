@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 13:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 16:56:30 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-10) 321</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-165630</link>
+      <guid isPermaLink="false">gag-20260610-165630</guid>
+      <pubDate>Wed, 10 Jun 2026 16:56:30 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ねえ、今日『イカ』食べに行かない？…『イカ』が？</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-10) 401</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-135215</link>
@@ -121,14 +129,6 @@
       <pubDate>Mon, 08 Jun 2026 23:51:24 +0000</pubDate>
       <category>ギャグ</category>
       <description>考え中のオヤジ「この前の健康診断でさ…肝臓が『お疲れ様です！』って言ってたんだよ。」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-08) 1038</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260608-224448</link>
-      <guid isPermaLink="false">gag-20260608-224448</guid>
-      <pubDate>Mon, 08 Jun 2026 22:44:48 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>はい、チーズ！僕のギャグはいつでも「とろ〜り」と温かいよ。</description>
     </item>
   </channel>
 </rss>
