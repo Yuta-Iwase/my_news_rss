@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 22:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 23:59:08 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 1156</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-235908</link>
+      <guid isPermaLink="false">gag-20260611-235908</guid>
+      <pubDate>Thu, 11 Jun 2026 23:59:08 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>考えすぎたプログラマーが言いました。「今日の残業、"while(true)"って感じ？」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 834</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-222512</link>
@@ -120,14 +128,6 @@
       <pubDate>Wed, 10 Jun 2026 06:06:05 +0000</pubDate>
       <category>ギャグ</category>
       <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-10) 746</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-013842</link>
-      <guid isPermaLink="false">gag-20260610-013842</guid>
-      <pubDate>Wed, 10 Jun 2026 01:38:42 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「ねぇ、このラーメン、伸びてるね」「大丈夫！麺が伸びたって、俺は『麺（めん）倒見』るから！」</description>
     </item>
   </channel>
 </rss>
