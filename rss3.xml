@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 11:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:53:38 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 1807</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-145338</link>
+      <guid isPermaLink="false">gag-20260611-145338</guid>
+      <pubDate>Thu, 11 Jun 2026 14:53:38 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>---</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 1399</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-111001</link>
@@ -119,16 +127,6 @@
       <pubDate>Tue, 09 Jun 2026 20:24:49 +0000</pubDate>
       <category>ギャグ</category>
       <description>---</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 77</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-182349</link>
-      <guid isPermaLink="false">gag-20260609-182349</guid>
-      <pubDate>Tue, 09 Jun 2026 18:23:49 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>SCENE: ラーメン屋の店主が、客が残したネギを見て一言。
-
-「あれ？ネギは食べるって言ったのに…これは『ネギらい』の気持ちが足りなかったかな？」</description>
     </item>
   </channel>
 </rss>
