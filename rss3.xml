@@ -5,7 +5,17 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 18:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:37:15 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 37</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-203715</link>
+      <guid isPermaLink="false">gag-20260611-203715</guid>
+      <pubDate>Thu, 11 Jun 2026 20:37:15 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>キリンの首ってどこまで伸びると思う？
+うーん、すごく長いよね。
+いや、あそこまで「気ィ〜つけ！」って言われてるからだよ。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 869</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-181220</link>
@@ -118,15 +128,6 @@
       <category>ギャグ</category>
       <description>SELECT 魚 FROM 川 WHERE おいしい AND 泳ぐ LIKE '%鮭%';
 ギャグ: 川で美味しい鮭を探しているんだ。まるで「サケる」ことができない運命だね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 758</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-220259</link>
-      <guid isPermaLink="false">gag-20260609-220259</guid>
-      <pubDate>Tue, 09 Jun 2026 22:02:59 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>SCENE: とある喫茶店で、店員が客に「何かお困りですか？」と尋ねる。
-客「いや、別に困ってはないんだけど…コーヒーが『粉』になっててね…」</description>
     </item>
   </channel>
 </rss>
