@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 14:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 18:12:20 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 869</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-181220</link>
+      <guid isPermaLink="false">gag-20260611-181220</guid>
+      <pubDate>Thu, 11 Jun 2026 18:12:20 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ねぇ、今夜、何食べる？…って聞かれたから、『今夜はコンニャク！』って言ったんだ。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 1807</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-145338</link>
@@ -119,14 +127,6 @@
       <category>ギャグ</category>
       <description>SCENE: とある喫茶店で、店員が客に「何かお困りですか？」と尋ねる。
 客「いや、別に困ってはないんだけど…コーヒーが『粉』になっててね…」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 1690</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-202449</link>
-      <guid isPermaLink="false">gag-20260609-202449</guid>
-      <pubDate>Tue, 09 Jun 2026 20:24:49 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>---</description>
     </item>
   </channel>
 </rss>
