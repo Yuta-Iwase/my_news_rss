@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 06:28:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 11:10:01 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 1399</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-111001</link>
+      <guid isPermaLink="false">gag-20260611-111001</guid>
+      <pubDate>Thu, 11 Jun 2026 11:10:01 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>親がパンを買いに行ったら、「父さん、食パン買ってきてー！」って言われた。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 1508</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-062827</link>
@@ -121,14 +129,6 @@
       <description>SCENE: ラーメン屋の店主が、客が残したネギを見て一言。
 
 「あれ？ネギは食べるって言ったのに…これは『ネギらい』の気持ちが足りなかったかな？」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 121</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-161704</link>
-      <guid isPermaLink="false">gag-20260609-161704</guid>
-      <pubDate>Tue, 09 Jun 2026 16:17:04 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>---</description>
     </item>
   </channel>
 </rss>
