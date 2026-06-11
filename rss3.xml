@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 20:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:25:12 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 834</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-222512</link>
+      <guid isPermaLink="false">gag-20260611-222512</guid>
+      <pubDate>Thu, 11 Jun 2026 22:25:12 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>パン屋さんが一番かかりやすい病気ってなーんだ？
+パンデミック！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 37</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-203715</link>
@@ -119,15 +128,6 @@
       <pubDate>Wed, 10 Jun 2026 01:38:42 +0000</pubDate>
       <category>ギャグ</category>
       <description>「ねぇ、このラーメン、伸びてるね」「大丈夫！麺が伸びたって、俺は『麺（めん）倒見』るから！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 117</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-233720</link>
-      <guid isPermaLink="false">gag-20260609-233720</guid>
-      <pubDate>Tue, 09 Jun 2026 23:37:20 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>SELECT 魚 FROM 川 WHERE おいしい AND 泳ぐ LIKE '%鮭%';
-ギャグ: 川で美味しい鮭を探しているんだ。まるで「サケる」ことができない運命だね！</description>
     </item>
   </channel>
 </rss>
