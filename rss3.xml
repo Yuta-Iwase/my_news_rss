@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 23:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 01:41:39 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 1025</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-014139</link>
+      <guid isPermaLink="false">gag-20260611-014139</guid>
+      <pubDate>Thu, 11 Jun 2026 01:41:39 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-10) 1853</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-231308</link>
@@ -121,14 +129,6 @@
       <pubDate>Tue, 09 Jun 2026 13:22:42 +0000</pubDate>
       <category>ギャグ</category>
       <description>パンダが好きな飲み物は何？パン茶（パンチ）！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 1462</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-102201</link>
-      <guid isPermaLink="false">gag-20260609-102201</guid>
-      <pubDate>Tue, 09 Jun 2026 10:22:01 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>鮭はなぜいつも川を上るの？…「しゃーないから」！</description>
     </item>
   </channel>
 </rss>
