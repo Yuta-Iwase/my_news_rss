@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 01:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 06:28:27 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-11) 1508</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-062827</link>
+      <guid isPermaLink="false">gag-20260611-062827</guid>
+      <pubDate>Thu, 11 Jun 2026 06:28:27 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>イルカは苦手なんだ。だって、いつも「いるか？」って聞いてくるから。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 1025</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-014139</link>
@@ -121,14 +129,6 @@
       <pubDate>Tue, 09 Jun 2026 16:17:04 +0000</pubDate>
       <category>ギャグ</category>
       <description>---</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-09) 1152</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260609-132242</link>
-      <guid isPermaLink="false">gag-20260609-132242</guid>
-      <pubDate>Tue, 09 Jun 2026 13:22:42 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>パンダが好きな飲み物は何？パン茶（パンチ）！</description>
     </item>
   </channel>
 </rss>
