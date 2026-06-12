@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 15:35:05 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-12) 1067</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-153505</link>
+      <guid isPermaLink="false">gag-20260612-153505</guid>
+      <pubDate>Fri, 12 Jun 2026 15:35:05 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>イルカはどんな時に怒るの？
+いるかいないか、はっきりしない時！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-12) 1192</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-120259</link>
@@ -160,14 +169,6 @@ It's simple, a bit silly, and uses a common pun often associated with dad jokes.
       <pubDate>Wed, 10 Jun 2026 19:32:08 +0000</pubDate>
       <category>ギャグ</category>
       <description>うん、僕はいつも「鉄」を飲んでるんだ。健康には「鉄分」が大切だからね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-10) 321</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-165630</link>
-      <guid isPermaLink="false">gag-20260610-165630</guid>
-      <pubDate>Wed, 10 Jun 2026 16:56:30 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねえ、今日『イカ』食べに行かない？…『イカ』が？</description>
     </item>
   </channel>
 </rss>
