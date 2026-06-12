@@ -5,7 +5,55 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 23:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:22:29 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-12) 29</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-042229</link>
+      <guid isPermaLink="false">gag-20260612-042229</guid>
+      <pubDate>Fri, 12 Jun 2026 04:22:29 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>THOUGHTS: The user wants a funny "oyaji-gyagu" (dad joke) in Japanese.
+I need to generate just the joke text, no extra explanation or pleasantries.
+It should be one joke.
+
+Let's brainstorm some typical dad joke tropes in Japanese:
+- Puns on similar-sounding words (douon異義語)
+- Food-related puns
+- Animal-related puns
+- Situation-based puns
+
+Example ideas:
+1.  **電車とパン (Train and bread)**: 電車がなかなか来ないね…まさか「食パン」してるんじゃ？ (Is the train not coming? Could it be "shokupan" (eating bread/bread factory) - a pun on "shokuhin" (food) or just a silly idea.) -&gt; maybe too obscure.
+2.  **猫とトイレ (Cat and toilet)**: 猫がお風呂に入らないって？そりゃ「シャンプー」いやだもんね！ (Cat won't take a bath? Well, it hates "shampoo"! (pun on "shanpuu" and maybe "sanpuu" (stroll) or just the silliness)) -&gt; "シャンプー" (shampoo) is good.
+3.  **ペンとインク (Pen and ink)**: ペンが疲れたって？インク切れじゃなくて「やる気」切れだね！ (Pen is tired? Not out of ink, but out of "motivation"!) -&gt; A bit too abstract.
+4.  **アイスと寒い (Ice cream and cold)**: 「寒いからアイス食べない？」って聞かれたけど、それは「逆」だろ！ (Someone asked "It's cold, wanna eat ice cream?" but that's "the opposite"!) -&gt; This one is a classic anti-joke structure.
+5.  **トイレとハワイ (Toilet and Hawaii)**: トイレに行きたいけど我慢してるんだ…「ハワイ」に行けないのが辛いよ！ (I want to go to the toilet but I'm holding it... It's hard not being able to go to "Hawaii"!) -&gt; This is a classic one! ハワイ (Hawaii) and 葉は良い (ha wa ii - leaves are good/ha yai - hurry up). No, the common one is 我慢 (gaman - endure) and ハワイ (Hawaii). The punchline is usually "ハワイにイカない (ikana-i)" - "I don't go to Hawaii" / "Squid don't go to Hawaii". Or "ハワイ行きたい" (I want to go to Hawaii) when you want to go to the bathroom.
+    Let's try: トイレを我慢してるんだ。早く「ハワイ」に行きたいよ… (I'm holding it. I want to go to "Hawaii" quickly...) -&gt; "ハワイに行きたい" is quite common. The pun is "はやく行きたい" (hayaku ikitai - want to go quickly) -&gt; "ハワイに行きたい". It implies the person wants to go to the toilet quickly.
+
+Let's refine the Hawaii one.
+"トイレを我慢してるんだ。早く「ハワイ」に行きたいよ…"
+This is a good, classic, slightly groan-worthy dad joke.
+
+Another option:
+「この鉛筆、短いなぁ。」「もう『芯』がないね！」
+(This pencil is short. "There's no core left!" / "It has no 'shin' (core/heart/truth)" -&gt; "shin ga nai" can mean no core, or no truth, or no strength etc. This is a bit weak for a dad joke.)
+
+How about something with food?
+「パン屋さんのアルバイト、疲れたなぁ。」「でも、『パン』に愛着が湧いたんじゃない？」
+(I'm tired from my part-time job at the bakery. But didn't you grow to love "pan" (bread)?) -&gt; "パン" (bread) and "愛着" (affection). Maybe a pun on "パンと愛" (bread and love). Not punchy enough.
+
+Let's stick with the toilet/Hawaii one. It's a well-known archetype.
+It fulfills the requirements:
+- Funny (in a dad joke way)
+- Oyaji-gyagu
+- Japanese
+- Single text line
+- No extra info
+
+Final check:
+トイレを我慢してるんだ。早く「ハワイ」に行きたいよ…。
+It's simple, a bit silly, and uses a common pun often associated with dad jokes.</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-11) 1156</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-235908</link>
@@ -120,14 +168,6 @@
       <pubDate>Wed, 10 Jun 2026 10:19:54 +0000</pubDate>
       <category>ギャグ</category>
       <description>「ねぇ、髪を切ったって言ってたけど、どう？『ヘア』？」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-10) 789</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260610-060605</link>
-      <guid isPermaLink="false">gag-20260610-060605</guid>
-      <pubDate>Wed, 10 Jun 2026 06:06:05 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
     </item>
   </channel>
 </rss>
