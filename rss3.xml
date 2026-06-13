@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 23:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:34:52 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 570</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-013452</link>
+      <guid isPermaLink="false">gag-20260613-013452</guid>
+      <pubDate>Sat, 13 Jun 2026 01:34:52 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>今日の天気は晴れと曇り、どっちかハッキリしないなぁ。まるで俺の親父ギャグみたいだろ？「スベる」か「ウケる」か、いつもハッキリしないんだ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-12) 369</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-231054</link>
@@ -334,14 +342,6 @@ It's simple, a bit silly, and uses a common pun often associated with dad jokes.
       <pubDate>Thu, 11 Jun 2026 11:10:01 +0000</pubDate>
       <category>ギャグ</category>
       <description>親がパンを買いに行ったら、「父さん、食パン買ってきてー！」って言われた。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-11) 1508</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-062827</link>
-      <guid isPermaLink="false">gag-20260611-062827</guid>
-      <pubDate>Thu, 11 Jun 2026 06:28:27 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>イルカは苦手なんだ。だって、いつも「いるか？」って聞いてくるから。</description>
     </item>
   </channel>
 </rss>
