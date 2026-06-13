@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 15:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:41:46 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 540</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-164146</link>
+      <guid isPermaLink="false">gag-20260613-164146</guid>
+      <pubDate>Sat, 13 Jun 2026 16:41:46 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>うん、今日カレーだね。…ルーはどこ？</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 829</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-150622</link>
@@ -332,14 +340,6 @@ It fulfills the requirements:
 Final check:
 トイレを我慢してるんだ。早く「ハワイ」に行きたいよ…。
 It's simple, a bit silly, and uses a common pun often associated with dad jokes.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-11) 1156</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-235908</link>
-      <guid isPermaLink="false">gag-20260611-235908</guid>
-      <pubDate>Thu, 11 Jun 2026 23:59:08 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>考えすぎたプログラマーが言いました。「今日の残業、"while(true)"って感じ？」</description>
     </item>
   </channel>
 </rss>
