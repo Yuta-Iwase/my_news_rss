@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 09:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:30:37 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 1580</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-113037</link>
+      <guid isPermaLink="false">gag-20260613-113037</guid>
+      <pubDate>Sat, 13 Jun 2026 11:30:37 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>この前買ったお煎餅、美味しくて食べ始めたら止まらなくて、結局「全滅」しちゃったよ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 851</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-093129</link>
@@ -334,14 +342,6 @@ It's simple, a bit silly, and uses a common pun often associated with dad jokes.
       <description>キリンの首ってどこまで伸びると思う？
 うーん、すごく長いよね。
 いや、あそこまで「気ィ〜つけ！」って言われてるからだよ。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-11) 869</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-181220</link>
-      <guid isPermaLink="false">gag-20260611-181220</guid>
-      <pubDate>Thu, 11 Jun 2026 18:12:20 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねぇ、今夜、何食べる？…って聞かれたから、『今夜はコンニャク！』って言ったんだ。</description>
     </item>
   </channel>
 </rss>
