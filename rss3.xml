@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 20:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 21:58:13 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 1561</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-215813</link>
+      <guid isPermaLink="false">gag-20260613-215813</guid>
+      <pubDate>Sat, 13 Jun 2026 21:58:13 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>この書類、どこに「かく」の？って聞いたら、「ここに「書く」んだよ！」って言われたよ。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 897</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-205207</link>
@@ -294,15 +302,6 @@ Sentence 2: Punchline (pun)
 This is a two-line gag. I will output these two lines.
 No introductory phrase like "ここにギャグをどうぞ" or "今日のギャグはこれです".
 Just the text.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-12) 1067</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-153505</link>
-      <guid isPermaLink="false">gag-20260612-153505</guid>
-      <pubDate>Fri, 12 Jun 2026 15:35:05 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>イルカはどんな時に怒るの？
-いるかいないか、はっきりしない時！</description>
     </item>
   </channel>
 </rss>
