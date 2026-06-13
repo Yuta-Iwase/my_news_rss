@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 19:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:52:07 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 897</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-205207</link>
+      <guid isPermaLink="false">gag-20260613-205207</guid>
+      <pubDate>Sat, 13 Jun 2026 20:52:07 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>パンはなんでいつも元気なの？ いつも「発酵」してるからね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 331</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-194016</link>
@@ -295,14 +303,6 @@ Just the text.</description>
       <category>ギャグ</category>
       <description>イルカはどんな時に怒るの？
 いるかいないか、はっきりしない時！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-12) 1192</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-120259</link>
-      <guid isPermaLink="false">gag-20260612-120259</guid>
-      <pubDate>Fri, 12 Jun 2026 12:02:59 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>このイカ、新鮮だね！イカだけに、いかがなものかと。</description>
     </item>
   </channel>
 </rss>
