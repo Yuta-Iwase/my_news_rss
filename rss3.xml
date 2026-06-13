@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 11:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 13:07:10 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 1707</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-130710</link>
+      <guid isPermaLink="false">gag-20260613-130710</guid>
+      <pubDate>Sat, 13 Jun 2026 13:07:10 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 1580</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-113037</link>
@@ -332,16 +340,6 @@ It's simple, a bit silly, and uses a common pun often associated with dad jokes.
       <category>ギャグ</category>
       <description>パン屋さんが一番かかりやすい病気ってなーんだ？
 パンデミック！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-11) 37</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260611-203715</link>
-      <guid isPermaLink="false">gag-20260611-203715</guid>
-      <pubDate>Thu, 11 Jun 2026 20:37:15 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>キリンの首ってどこまで伸びると思う？
-うーん、すごく長いよね。
-いや、あそこまで「気ィ〜つけ！」って言われてるからだよ。</description>
     </item>
   </channel>
 </rss>
