@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 21:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 23:06:03 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-13) 1672</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-230603</link>
+      <guid isPermaLink="false">gag-20260613-230603</guid>
+      <pubDate>Sat, 13 Jun 2026 23:06:03 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>具合が悪くなったら、行く病院はどこ？
+そりゃあ、ドクター・ストップ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 1561</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-215813</link>
@@ -121,187 +130,6 @@
       <pubDate>Fri, 12 Jun 2026 19:59:23 +0000</pubDate>
       <category>ギャグ</category>
       <description>---</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-12) 323</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-175121</link>
-      <guid isPermaLink="false">gag-20260612-175121</guid>
-      <pubDate>Fri, 12 Jun 2026 17:51:21 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>[THINK]
-The user wants a funny "oyaji gag" in Japanese.
-I need to create one and output *only* the text of the gag, no extra explanations or greetings.
-
-Let's brainstorm some typical oyaji gag structures:
-1.  **Pun on similar-sounding words:** This is the most common.
-2.  **Misinterpretation/play on words with double meanings.**
-3.  **Relating something to food/drink.**
-4.  **Slightly absurd, self-deprecating.**
-
-Let's try to make a pun.
-What are some common topics or words?
--   食べ物 (food)
--   動物 (animals)
--   場所 (places)
--   行動 (actions)
-
-Let's try with a common action or situation.
-Example: 電車 (train)
--   「電車が遅れてるね」
--   「うん、ちょっとデンジャー（危険）だね」 - A bit too simple, maybe not funny enough.
-
-How about something related to a common object or tool?
-ドライバー (screwdriver)
--   「このドライバー、ネジを締めるのに便利だね。」
--   「うん、でも使いすぎると、体がスクリュードライバーになるぞ！」 (Doesn't make sense.)
-
-Let's try a classic setup: asking a question and giving a pun answer.
-
-Question: What do you call something...?
-何とかと何とかをかけて。
-
-Consider common Japanese sounds/words that can be played with.
-"ある日" (aru hi - one day) -&gt; "アルヒ" (Al Hí, like "アルフィー" The Alfee, but not quite a gag)
-
-What about "〜がない" (〜 ga nai - doesn't have/is missing)?
--   「スマホがない！」
--   「それは、スマホ（スマート）じゃないな。」 (Hmm, a bit weak.)
-
-Let's try focusing on a particular word that has a similar-sounding homophone or a word that can be split to make a pun.
-
-How about something related to "犬" (inu - dog)?
--   「この犬、お座りできるんだね。」
--   「ああ、お利口さんだ。でも、エサをあげないとイヌ（要らない）って言われちゃうかもな！」 (A bit forced.)
-
-Let's try a simple setup about a person's name or a common situation.
-What about "パン" (pan - bread)?
--   「このパン、美味しいね！」
--   「うん、でも食べすぎると、お腹がパンパン（いっぱい）になっちゃうぞ！」 (Too obvious, maybe not a "gag" but just a common phrase.)
-
-Let's try a play on words with a common situation and a foreign loanword or a kanji word.
-
-How about something related to being tired or sleep?
-「眠いね」 (Nemui ne - I'm sleepy)
--   「え？もしかして、枕がメヌイ（フランス語でメニュー）？」 (No, too obscure and doesn't fit the flow.)
-
-Let's go for a classic pun structure: "〇〇って、〇〇なんだよね～"
-
-Consider a situation where someone is struggling or working hard.
-「頑張る」 (ganbaru - to do one's best)
-
-How about a pun using "パン" (bread) but in a different context?
-
-「このパン、焼きたてでフワフワだね！」
-「うん、まるでパンのふかふかベッドみたいだね。」
-「え？パンがベッド？じゃあ、寝坊しちゃったらどうするの？」
-「そりゃあ…『寝パン』になっちゃうな！」
-(寝パン is 'sleeping bread', but also could sound like 'netapan' - ネタパン -&gt; ネタ (joke) + パン (bread), or just sounds silly. But a bit too convoluted.)
-
-Let's try to make it simpler and more direct.
-
-What about a pun on a common object or food?
-"梨" (nashi - pear)
-"無し" (nashi - none/without)
-
-"最近、運動不足で体力が…梨（なし）だね。"
-"え？梨？"
-"うん、だから運動して、体力を…あり（有り）にするぞ！" (A bit long-winded)
-
-Let's try a word that can be easily split into two common words.
-"布団" (futon - Japanese mattress/bedding)
-"ふとん" -&gt; "ふと" (suddenly) + "ん" (sound)
-"ふと" (ふと - suddenly) + "ON" (オン - on)
-
-"最近、夜なかなか寝付けないんだよね。"
-"ん？もしかして、ふとんのスイッチが『ON』になってるんじゃない？"
-(The pun is that futon sounds like "ふと ON", implying a switch is on, preventing sleep. It's a bit abstract.)
-
-Let's try a classic food-related pun that's a bit silly.
-Consider "イカ" (ika - squid).
-"イカがですか？" (Ika ga desu ka? - How is it? / How is the squid?) - This is too obvious a play on words.
-
-How about something related to "梅" (ume - plum)?
-"梅雨" (tsuyu - rainy season)
-"梅" (ume - plum)
-
-"最近、梅雨でジメジメするね。"
-"そうだな。でも、この時期は梅干しが美味しいから、まあ『梅』っちゃ『梅』かな！"
-(梅 (ume) and うめー (umee - delicious). The "梅" in "梅っちゃ梅かな" sounds like "うめー" meaning delicious.)
-
-This one is fairly standard and relies on a common sound pun.
-"梅雨でジメジメするね。" (It's humid with the rainy season, isn't it?)
-"そうだな。でも、こんな天気でも気分は『うめー』ってわけにはいかないか！"
-(Ume- is delicious, but it doesn't quite fit "ume- desu ne" in the context of weather.)
-
-Let's refine the "ume" idea.
-"最近、梅雨で洗濯物が乾かないね。" (Recently, during the rainy season, laundry doesn't dry.)
-"そうだな、まさに『梅ぇ』ことなしだ！" (Umē koto nashi da! - There's nothing delicious/good about it!)
-Here, "梅ぇ" (umē) is a pun on both "梅雨" (tsuyu, the rainy season which *contains* 梅) and "うめぇ" (delicious/good). "ことなし" means "nothing good about it".
-
-This is getting closer. "梅ぇ" sounds like "うまい" (umai - delicious/good).
-"梅雨" (tsuyu - rainy season) and "梅" (ume - plum, the first character of tsuyu).
-
-Let's try this:
-「最近、梅雨でジメジメして、気分が上がらないな～」
-「そうだな。こんな天気でも、気分だけは『梅ぇ！』って言いたいもんだな！」
-(梅ぇ！ (umē!) sounds like delicious, but it's a pun with 梅 (ume) from 梅雨 (tsuyu). The punchline is that despite the weather, one wants to feel "delicious/good.")
-
-It might be a bit too complex for a *simple* oyaji gag.
-
-Let's go back to something very straightforward.
-A play on words with a common activity or object.
-
-What about something related to "歯医者" (haisha - dentist)?
-「歯医者さんって、いつも歯のこと考えてるんだよね。」
-「うん。だから、口を開いてると『歯』って言われるんだ！」 (No, not good)
-
-What about "コーヒー" (coffee)?
-「最近、寝不足でいつも眠いんだよね。」
-「それじゃあ、コーヒーを飲んで、目を『覚まコーヒー』しないとね！」
-(覚まコーヒー (samakōhī) sounds like 覚まそう (samasou - let's wake up) + コーヒー (coffee). This is a classic pun style.)
-
-This one is pretty good. It's a pun on a common word, a common situation, and uses a bit of katakana twist.
-
-Let's try another one just in case.
-"ゾウ" (zō - elephant)
-"象が踏んでも壊れない筆箱" (A pencil case an elephant steps on and it doesn't break) - This is an old commercial tagline, not a gag.
-
-How about something using "布団" again?
-「最近、ふとんに入ると、すぐ寝ちゃうんだよね。」
-「おやおや、まるで『ふと、寝る』って感じだね！」
-(ふと、寝る (futo, neru - suddenly, sleep). 布団 (futon) sounds like ふとん (futo-n). This is simple and direct.)
-
-I think this "ふとん" one is a good candidate.
-It's a simple pun on "ふとん" (futon) sounding like "ふと寝る" (futo neru - suddenly sleep).
-It's short, relatable, and uses a common item.
-
-Let's try to format it as a typical oyaji gag.
-A setup and a punchline.
-
-Setup: 「最近、寝つきがいいんだよね。」 (Recently, I fall asleep easily.)
-Punchline: 「ああ、布団に入ると、ふと『ん』って言ってるからかな！」 (Ah, maybe it's because when you get into the futon, you suddenly say 'ん'!) - This is weaker.
-
-Let's go with the "ふと、寝る" (futo, neru) meaning.
-
-Setup: 「最近、寝つきが良すぎて困ってるんだ。」 (Recently, I'm having trouble because I fall asleep too easily.)
-Punchline: 「そりゃ、布団が『ふと、寝る』って言ってるからじゃない？」 (Well, isn't it because your futon is telling you to "suddenly sleep"?)
-
-This is a pretty solid oyaji gag. It uses a common word, a common situation, and a simple pun.
-The user wants only the text of the gag.
-
-Okay, let's craft the final output.
-The prompt asks for *one* gag.
-I will use the "ふとん" one.
-
-Sentence 1: Setup
-Sentence 2: Punchline (pun)
-
-「最近、寝つきが良すぎて困ってるんだ。」
-「そりゃ、布団が『ふと、寝る』って言ってるからじゃない？」
-
-This is a two-line gag. I will output these two lines.
-No introductory phrase like "ここにギャグをどうぞ" or "今日のギャグはこれです".
-Just the text.</description>
     </item>
   </channel>
 </rss>
