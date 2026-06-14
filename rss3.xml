@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 23:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 00:18:45 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 822</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-001845</link>
+      <guid isPermaLink="false">gag-20260614-001845</guid>
+      <pubDate>Sun, 14 Jun 2026 00:18:45 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>寒いダジャレを言うと、どうなるか知ってる？
+ネタが冷えるんだよ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-13) 1672</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-230603</link>
@@ -122,14 +131,6 @@
       <pubDate>Fri, 12 Jun 2026 21:52:08 +0000</pubDate>
       <category>ギャグ</category>
       <description>ねぇ、今日のランチ、何食べる？んー、ラーメンにし「ようかん」？</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-12) 1355</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-195923</link>
-      <guid isPermaLink="false">gag-20260612-195923</guid>
-      <pubDate>Fri, 12 Jun 2026 19:59:23 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>---</description>
     </item>
   </channel>
 </rss>
