@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 19:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 21:03:29 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 911</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-210329</link>
+      <guid isPermaLink="false">gag-20260614-210329</guid>
+      <pubDate>Sun, 14 Jun 2026 21:03:29 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>最近、スマホのアプリが多すぎて困るよ。もう「アップ」アップだね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 1459</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-195335</link>
@@ -409,14 +417,6 @@ This is good.</description>
       <description>```text
 「この間、お寿司屋さんでエビ天を頼んだらさ、店員さんが『揚げますか？』って聞いてきたんだ。もちろん、揚げろよ！って思ったね。」
 ```</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-13) 540</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-164146</link>
-      <guid isPermaLink="false">gag-20260613-164146</guid>
-      <pubDate>Sat, 13 Jun 2026 16:41:46 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>うん、今日カレーだね。…ルーはどこ？</description>
     </item>
   </channel>
 </rss>
