@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 16:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 18:04:12 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 1774</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-180412</link>
+      <guid isPermaLink="false">gag-20260614-180412</guid>
+      <pubDate>Sun, 14 Jun 2026 18:04:12 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ねえ、これ『チーズ』？…いや、『私を試す』んじゃないよ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 550</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-164953</link>
@@ -315,14 +323,6 @@
       <category>ギャグ</category>
       <description>ねぇ、猫が車に乗ったら何になると思う？
 カーネーション！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-13) 1707</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-130710</link>
-      <guid isPermaLink="false">gag-20260613-130710</guid>
-      <pubDate>Sat, 13 Jun 2026 13:07:10 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
     </item>
   </channel>
 </rss>
