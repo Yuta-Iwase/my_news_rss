@@ -5,7 +5,17 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 11:25:53 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 617</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-112553</link>
+      <guid isPermaLink="false">gag-20260614-112553</guid>
+      <pubDate>Sun, 14 Jun 2026 11:25:53 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>カニが甲羅を背負って大変そうだねって聞いたら、
+「いや、俺たちにとっては軽いんだ！」って言ってたよ。
+だって、カニは「軽い」からね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 163</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-085108</link>
@@ -123,14 +133,6 @@
       <pubDate>Sat, 13 Jun 2026 06:00:57 +0000</pubDate>
       <category>ギャグ</category>
       <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-13) 570</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-013452</link>
-      <guid isPermaLink="false">gag-20260613-013452</guid>
-      <pubDate>Sat, 13 Jun 2026 01:34:52 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>今日の天気は晴れと曇り、どっちかハッキリしないなぁ。まるで俺の親父ギャグみたいだろ？「スベる」か「ウケる」か、いつもハッキリしないんだ！</description>
     </item>
   </channel>
 </rss>
