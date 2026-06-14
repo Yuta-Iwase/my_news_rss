@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:12:05 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 204</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-051205</link>
+      <guid isPermaLink="false">gag-20260614-051205</guid>
+      <pubDate>Sun, 14 Jun 2026 05:12:05 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「この魚、すごく新鮮だね！」「ああ、『イキ』が良いだろ？俺も『粋』に生きたいもんだね！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 822</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-001845</link>
@@ -123,14 +131,6 @@
       <pubDate>Fri, 12 Jun 2026 23:10:54 +0000</pubDate>
       <category>ギャグ</category>
       <description>「このレモン、酸っぱいだけじゃなくて、疲労回復にもいいんだって？まさに『疲労』に『レモン』だね！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-12) 657</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-215208</link>
-      <guid isPermaLink="false">gag-20260612-215208</guid>
-      <pubDate>Fri, 12 Jun 2026 21:52:08 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねぇ、今日のランチ、何食べる？んー、ラーメンにし「ようかん」？</description>
     </item>
   </channel>
 </rss>
