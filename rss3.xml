@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 05:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:51:08 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 163</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-085108</link>
+      <guid isPermaLink="false">gag-20260614-085108</guid>
+      <pubDate>Sun, 14 Jun 2026 08:51:08 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>味噌汁を毎日飲んでると、みそじになっても元気でいられるからな！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 204</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-051205</link>
@@ -123,14 +131,6 @@
       <pubDate>Sat, 13 Jun 2026 01:34:52 +0000</pubDate>
       <category>ギャグ</category>
       <description>今日の天気は晴れと曇り、どっちかハッキリしないなぁ。まるで俺の親父ギャグみたいだろ？「スベる」か「ウケる」か、いつもハッキリしないんだ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-12) 369</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260612-231054</link>
-      <guid isPermaLink="false">gag-20260612-231054</guid>
-      <pubDate>Fri, 12 Jun 2026 23:10:54 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「このレモン、酸っぱいだけじゃなくて、疲労回復にもいいんだって？まさに『疲労』に『レモン』だね！」</description>
     </item>
   </channel>
 </rss>
