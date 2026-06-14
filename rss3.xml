@@ -5,7 +5,110 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 18:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 19:53:35 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 1459</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-195335</link>
+      <guid isPermaLink="false">gag-20260614-195335</guid>
+      <pubDate>Sun, 14 Jun 2026 19:53:35 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>THOUGHTS: The user wants a single, funny Japanese "oyaji gag" (dad joke).
+I need to generate just the gag text, with no extra formatting, introduction, or greeting.
+
+Let's think of a typical oyaji gag structure: a pun, often a somewhat groan-worthy one, or a play on words.
+
+Ideas for puns:
+- Food-related: "パンはパンでも食パンじゃなくて…"
+- Animals: "キリンが寝る場所は？" (キリンが寝る場所は… 枕木リーン) - A bit too complex.
+- Daily objects/situations:
+
+Let's try a food one.
+"布団が吹っ飛んだ" is a classic but maybe too well-known.
+
+How about something with "いくら" (salmon roe, or "how much?")
+"お寿司屋さんで『いくらですか？』と聞いたら、いくらが答えました。『僕、いくら！』" - A bit too long and maybe not quite "oyaji" enough.
+
+Let's try a simple, slightly cheesy pun.
+What about something related to a common item?
+"トイレ" (toilet)
+"お父さんがトイレに入ってなかなか出てこないと思ったら、便器とベンチを間違えて座っていたよ。" - Not a pun.
+
+"ゾウ" (elephant)
+"ゾウが家にやってきました。さて、何をしますか？"
+"ゾウが家にやってきました。さて、何をしますか？ ゾウジ。" (掃除 - souji / ゾウ - zou, 字 - ji). A bit of a stretch with "字".
+
+Let's try a classic setup.
+"ねえ、パンはパンでも食べられないパンってなーんだ？" (Answer: フライパン) - This is too common.
+
+How about something with "おもしろい" (interesting/funny) itself? No, that's meta.
+
+Let's go for a simple wordplay.
+"カレー" (curry)
+"カレーを作ったけど、ちょっと味見をして『これ、かレールー？』って聞いちゃった。" (かレールー - cury roux / 彼 - kare - he / るー - ru). This is a bit weak.
+
+"イルカ" (dolphin)
+"イルカが電話をしました。なぜでしょう？"
+"イルカが電話をしました。なぜでしょう？ イルカール。" (イルカ - iruka / いるか - iruka (is there?)). This might work.
+"イルカが電話をしました。なぜでしょう？ イルカール (いるかーる？) " - The pun is "いるか？" (is there?) but "イルカる" isn't a word.
+
+Let's try with something very common and slightly unexpected.
+"布団が吹っ飛んだ" - too famous.
+
+What about a pun on a word that sounds like another?
+"自転車が倒れた。なぜ？" (Answer: 自転(車)したから) - This is okay.
+Let's try to make it slightly more "oyaji".
+
+"ねぇ、このコーヒー、ちょっとぬるくない？"
+"え、これ『ぬるい』んじゃなくて、『フルーティー』だよ！"
+This is a bit complex.
+
+How about "アルミ缶の上にあるミカン"? A bit long.
+
+Let's try a setup: "お父さん、なんでそんなに急いでるの？"
+"だって、もうすぐ『時』(時計)が来ちゃうからね！" (時 - toki / 時の鐘 - toki no kane) - Too obscure.
+
+What about "お酒" (sake/alcohol)?
+"お酒を飲んでるとなぜか怒られちゃうんだよね…"
+"だって、『酒』(さけ)じゃなくて『避け』(さけ)られちゃうからね！" - This is okay. "お酒を飲んだら避けられちゃった。"
+
+Let's try something with a common object like "椅子" (isu - chair).
+"イスラム教徒が座る椅子は？" (イスラム教徒が座る椅子は… イスラムースイス) - A bit insensitive, avoid.
+
+How about "お父さん、最近疲れが取れないんだ。"
+"そっか、じゃあ『疲労』(ひろう)じゃなくて、『ヒーロー』になってごらん！" - Not a pun.
+
+Let's aim for a classic pun structure.
+Something with "パン".
+"パンはパンでも、かたいパンはなーんだ？"
+"フライパン" - too common.
+
+What about a different wordplay?
+"お父さんがお風呂で歌を歌っていたよ。何の歌か知ってる？"
+"お父さんがお風呂で歌ってたのは…『湯(you) make me feel brand new』だよ。" - This works! It's a groan-worthy pun.
+
+Let's make it concise.
+"お父さんがお風呂で歌ってたのは、何て歌？"
+"そりゃあ、『湯 (You) make me feel brand new』だよ！"
+
+This is good. It's a pun (湯 = yu, sounds like You) and it's a common "dad joke" style. It's simple, doesn't require complex cultural knowledge beyond the pun, and has that slight cheesiness.
+
+Final check:
+- One gag.
+- Japanese.
+- No extra text.
+
+Okay, let's go with this one.
+"お父さんがお風呂で歌ってたのは、何て歌？『湯(You) make me feel brand new』だよ！"
+It's a bit long. Can I shorten it?
+
+"お父さんがお風呂で歌ってた歌、なあに？"
+"そりゃあ、『湯 (You) make me feel brand new』だよ！"
+
+Still a bit long, but it needs the setup.
+What if I simplify the setup slightly?
+"お父さんがお風呂で歌う歌、なーんだ？『湯(You) make me feel brand new』だよ！"
+This is good.</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 1774</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-180412</link>
@@ -314,15 +417,6 @@
       <pubDate>Sat, 13 Jun 2026 16:41:46 +0000</pubDate>
       <category>ギャグ</category>
       <description>うん、今日カレーだね。…ルーはどこ？</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-13) 829</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-150622</link>
-      <guid isPermaLink="false">gag-20260613-150622</guid>
-      <pubDate>Sat, 13 Jun 2026 15:06:22 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねぇ、猫が車に乗ったら何になると思う？
-カーネーション！</description>
     </item>
   </channel>
 </rss>
