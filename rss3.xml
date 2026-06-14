@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 22:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 23:40:45 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-14) 307</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-234045</link>
+      <guid isPermaLink="false">gag-20260614-234045</guid>
+      <pubDate>Sun, 14 Jun 2026 23:40:45 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>お茶にする？…いや、お札にする！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-14) 254</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-221954</link>
@@ -406,15 +414,6 @@ This is good.</description>
       <pubDate>Sat, 13 Jun 2026 20:52:07 +0000</pubDate>
       <category>ギャグ</category>
       <description>パンはなんでいつも元気なの？ いつも「発酵」してるからね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-13) 331</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-194016</link>
-      <guid isPermaLink="false">gag-20260613-194016</guid>
-      <pubDate>Sat, 13 Jun 2026 19:40:16 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>いつも怒ってばかりの魚なーんだ？\
-タチウオ！</description>
     </item>
   </channel>
 </rss>
