@@ -5,7 +5,80 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 21:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 23:15:18 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-15) 653</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-231518</link>
+      <guid isPermaLink="false">gag-20260615-231518</guid>
+      <pubDate>Mon, 15 Jun 2026 23:15:18 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>SIGNS OF OLD AGE
+THOUGHTS: The user wants a single, interesting "Oyaji Gag" (dad joke) in Japanese.
+I need to come up with a pun or a play on words that is typical of an "oyaji gag".
+It should be concise and directly the joke itself, with no extra text.
+
+Let's brainstorm some typical dad joke themes:
+- Food puns
+- Animal puns
+- Work puns
+- Everyday object puns
+
+Consider a food pun.
+- "布団が吹っ飛んだ" (futon ga futtonda - the futon flew away) - Too common.
+- "これ、お水ですか？ いえ、たしかに水ですが、これはコップです。" (Is this water? Yes, it's water, but this is a cup.) - A bit too long, not a direct pun.
+
+How about something related to weather or seasons?
+- "寒いギャグですね。" (Samui gyagu desu ne. - That's a cold joke, isn't it.) - Self-referential, but not *the* gag.
+
+Let's try a common word and twist it.
+"パンはパンでも食べられないパンはなーんだ？" (What kind of bread can't be eaten?) -&gt; "フライパン" (frying pan). - A bit too much like a children's riddle.
+
+I need something that elicits a groan, which is the hallmark of an oyaji gag.
+
+Think about a common phrase or situation.
+
+What about a play on words with "ありがとう" (arigato - thank you)?
+"ありがとう" -&gt; "蟻が10匹" (ari ga ju-hiki - 10 ants). This is a classic, but maybe too common.
+
+Let's try a different approach. A common object or a situation at home.
+What about "洗濯物" (sentakumono - laundry)?
+"洗濯機が喋った！なんて言ったと思う？" (The washing machine talked! What do you think it said?)
+"せんたくしまーす！" (Sentaku shima-su! - I'm going to wash!) -&gt; This is a bit weak.
+
+How about something with numbers or days?
+"日曜日に日曜大工をしたら、もう月曜だい！" (Nichiyoubi ni Nichiyou daiku wo shitara, mou Getsuyou dai! - If I do DIY on Sunday, it's already Monday!) - "月曜だい" sounds like "月曜日" (Monday) and "もう月曜だ" (It's already Monday). This has potential.
+
+Let's refine it.
+"日曜大工、頑張ったね。もう、月曜だい！" (Nichiyou daiku, ganbatta ne. Mou, Getsuyou dai!)
+The pun is "月曜だい" (Getsuyou dai) sounding like "月曜日" (Getsuyoubi - Monday) but also meaning "It's already Monday!" (もう月曜だ).
+The "だ" at the end can be "だい" (dai) for emphasis or casualness.
+This plays on the tiredness after weekend work. It's a bit relatable.
+
+Let's check the criteria:
+- Single gag
+- Japanese
+- No extra text
+
+"日曜大工、頑張ったね。もう、月曜だい！"
+This works. It's concise, has a pun, and fits the "oyaji gag" style.
+
+One more idea:
+"これ、何の味のグミ？" (What flavor is this gummy?)
+"グミはグミでも、食べられないグミはなんだ？" (What kind of gummy can't you eat?) -&gt; "ゴミ" (gomi - trash).
+This is similar to the bread one. Maybe the Sunday one is better as it's more of a situation.
+
+Let's stick with the Sunday/Monday one. It's a bit more subtle than a direct homophone.
+
+Final check of the Japanese:
+"日曜大工、頑張ったね。もう、月曜だい！"
+It's a simple sentence structure.
+"日曜大工" (Nichiyou daiku) = DIY (literally Sunday carpentry)
+"頑張ったね" (Ganbatta ne) = You worked hard, didn't you.
+"もう" (Mou) = Already
+"月曜だい！" (Getsuyou dai!) = It's Monday! / It's already Monday! (pun with "Getsuyoubi")
+
+This feels right.</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-15) 581</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-212410</link>
@@ -486,14 +559,6 @@ This is good.</description>
       <description>カニが甲羅を背負って大変そうだねって聞いたら、
 「いや、俺たちにとっては軽いんだ！」って言ってたよ。
 だって、カニは「軽い」からね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 163</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-085108</link>
-      <guid isPermaLink="false">gag-20260614-085108</guid>
-      <pubDate>Sun, 14 Jun 2026 08:51:08 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>味噌汁を毎日飲んでると、みそじになっても元気でいられるからな！</description>
     </item>
   </channel>
 </rss>
