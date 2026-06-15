@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 02:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:34:31 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-15) 1369</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-073431</link>
+      <guid isPermaLink="false">gag-20260615-073431</guid>
+      <pubDate>Mon, 15 Jun 2026 07:34:31 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>お肉と野菜、どっちが好き？って聞かれても、やっぱり『肉（にくい）』よね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-15) 1602</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-020639</link>
@@ -436,14 +444,6 @@ This is good.</description>
       <category>ギャグ</category>
       <description>具合が悪くなったら、行く病院はどこ？
 そりゃあ、ドクター・ストップ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-13) 1561</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260613-215813</link>
-      <guid isPermaLink="false">gag-20260613-215813</guid>
-      <pubDate>Sat, 13 Jun 2026 21:58:13 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>この書類、どこに「かく」の？って聞いたら、「ここに「書く」んだよ！」って言われたよ。</description>
     </item>
   </channel>
 </rss>
