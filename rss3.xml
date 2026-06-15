@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 18:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 21:24:10 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-15) 581</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-212410</link>
+      <guid isPermaLink="false">gag-20260615-212410</guid>
+      <pubDate>Mon, 15 Jun 2026 21:24:10 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>部長が居眠りしている部下を見て一言。「君、もう夢中かい？」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-15) 1398</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-181347</link>
@@ -486,14 +494,6 @@ This is good.</description>
       <pubDate>Sun, 14 Jun 2026 08:51:08 +0000</pubDate>
       <category>ギャグ</category>
       <description>味噌汁を毎日飲んでると、みそじになっても元気でいられるからな！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 204</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-051205</link>
-      <guid isPermaLink="false">gag-20260614-051205</guid>
-      <pubDate>Sun, 14 Jun 2026 05:12:05 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「この魚、すごく新鮮だね！」「ああ、『イキ』が良いだろ？俺も『粋』に生きたいもんだね！」</description>
     </item>
   </channel>
 </rss>
