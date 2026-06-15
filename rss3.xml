@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 13:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:13:47 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-15) 1398</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-181347</link>
+      <guid isPermaLink="false">gag-20260615-181347</guid>
+      <pubDate>Mon, 15 Jun 2026 18:13:47 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>傘を貸してって言われたんだけど、断ったんだ。だって、「傘」は「貸さん！」からね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-15) 978</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-133553</link>
@@ -486,15 +494,6 @@ This is good.</description>
       <pubDate>Sun, 14 Jun 2026 05:12:05 +0000</pubDate>
       <category>ギャグ</category>
       <description>「この魚、すごく新鮮だね！」「ああ、『イキ』が良いだろ？俺も『粋』に生きたいもんだね！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 822</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-001845</link>
-      <guid isPermaLink="false">gag-20260614-001845</guid>
-      <pubDate>Sun, 14 Jun 2026 00:18:45 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>寒いダジャレを言うと、どうなるか知ってる？
-ネタが冷えるんだよ！</description>
     </item>
   </channel>
 </rss>
