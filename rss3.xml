@@ -5,7 +5,49 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 22:28:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 23:56:31 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-16) 1567</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-235631</link>
+      <guid isPermaLink="false">gag-20260616-235631</guid>
+      <pubDate>Tue, 16 Jun 2026 23:56:31 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>考え中...
+ユーザーの要求は、日本語の面白いオヤジギャグを1つだけ、余計な説明なしで出力すること。
+
+ギャグを作成する。
+オヤジギャグの特徴：
+- ダジャレ
+- 寒い、と言われるがクスッとくるもの
+- 古典的、またはちょっとひねりがあるもの
+
+いくつか候補を考える：
+1. 「ねえ、このカレー、ルーが足りないんだ。…ルーだけにね！」
+2. 「課長、今日は元気がないですね。…何かシャキッとしないと、サメになっちゃいますよ！」（鮫とシャキッをかけたが、ちょっと複雑か）
+3. 「この魚、新鮮で『イカ』してるね！」
+4. 「お父さん、もうお腹いっぱいだよ。…はい、これ以上食べると『腹イッパイ』になりますからね！」（腹いっぱいと、腹一杯をかけたが、普通すぎるか）
+5. 「昨日、カフェでコーヒーを頼んだら、『カフェイン』とされたよ。」（カフェインと感動されたをかけたが、少し無理があるか）
+6. 「お前、最近顔が疲れてるんじゃないか？…まさか、仕事で『しんどい』思いしてるの？」（しんどいとシンドイをかけたが、これも普通）
+7. 「このケーキ、すごく甘いね。…まるで君の『甘い言葉』みたいだね！」（これはオヤジギャグというより口説き文句か）
+8. 「電車の中でスマホをいじりすぎると、目が『つり革』になるぞ！」（つり革と疲れるをかけたが、無理がある）
+9. 「ねぇ、お皿洗ってくれる？…『あらい』、助かるわー！」（あら、と洗いをかけた。これはシンプルで良い。）
+10. 「このラーメン、美味しいね！…でも、ちょっと『麺』どうかな？」 （麺と面倒をかけた。これも定番で分かりやすい。）
+
+上記の中から、シンプルでオヤジギャグらしいものを一つ選ぶ。
+
+「ねぇ、お皿洗ってくれる？…『あらい』、助かるわー！」
+これは分かりやすくて良い。
+
+「このラーメン、美味しいね！…でも、ちょっと『麺』どうかな？」
+これも良い。
+
+どちらか一方。
+「あらい、助かるわー」の方が、より会話調で、オヤジが言いそうな感じがする。
+
+最終決定：「ねぇ、お皿洗ってくれる？…『あらい』、助かるわー！」
+
+よし、これでいこう。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-16) 552</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-222822</link>
@@ -268,14 +310,6 @@ Looks good.</description>
       <pubDate>Sun, 14 Jun 2026 22:19:54 +0000</pubDate>
       <category>ギャグ</category>
       <description>犬が走ってるね。まさに「ドッグ」走！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 911</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-210329</link>
-      <guid isPermaLink="false">gag-20260614-210329</guid>
-      <pubDate>Sun, 14 Jun 2026 21:03:29 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>最近、スマホのアプリが多すぎて困るよ。もう「アップ」アップだね！</description>
     </item>
   </channel>
 </rss>
