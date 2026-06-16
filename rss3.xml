@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:25:07 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-16) 609</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-202507</link>
+      <guid isPermaLink="false">gag-20260616-202507</guid>
+      <pubDate>Tue, 16 Jun 2026 20:25:07 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>考えないでください、それは「カンガルー」です！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-16) 459</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-172944</link>
@@ -363,14 +371,6 @@ Still a bit long, but it needs the setup.
 What if I simplify the setup slightly?
 "お父さんがお風呂で歌う歌、なーんだ？『湯(You) make me feel brand new』だよ！"
 This is good.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 1774</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-180412</link>
-      <guid isPermaLink="false">gag-20260614-180412</guid>
-      <pubDate>Sun, 14 Jun 2026 18:04:12 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねえ、これ『チーズ』？…いや、『私を試す』んじゃないよ！</description>
     </item>
   </channel>
 </rss>
