@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 07:09:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:21:21 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-16) 372</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-122121</link>
+      <guid isPermaLink="false">gag-20260616-122121</guid>
+      <pubDate>Tue, 16 Jun 2026 12:21:21 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>はい、チーズ！僕のギャグはスベるけど、心は温かいんだから！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-16) 815</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-070918</link>
@@ -551,16 +559,6 @@ This is good.</description>
 出力形式はギャグのテキストのみ。
 
 「アイスが溶ける…愛すがゆえに…」これで決定。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 346</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-151900</link>
-      <guid isPermaLink="false">gag-20260614-151900</guid>
-      <pubDate>Sun, 14 Jun 2026 15:19:00 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ねぇ、このペンいるか？
-うん、いるか。
-じゃあ、このイルカの絵もいるか？</description>
     </item>
   </channel>
 </rss>
