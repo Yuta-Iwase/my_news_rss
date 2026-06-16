@@ -5,7 +5,19 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 07:09:18 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-16) 815</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-070918</link>
+      <guid isPermaLink="false">gag-20260616-070918</guid>
+      <pubDate>Tue, 16 Jun 2026 07:09:18 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>SCENE: 飲み会
+
+「お父さん、また変なこと言ってる」
+
+「え？　俺、今まさに『新発見』してるんだがな。『今日の寿司ネタ、マグロじゃなくてアワビだった！』って」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-16) 1304</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-014810</link>
@@ -549,14 +561,6 @@ This is good.</description>
       <description>ねぇ、このペンいるか？
 うん、いるか。
 じゃあ、このイルカの絵もいるか？</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 931</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-131224</link>
-      <guid isPermaLink="false">gag-20260614-131224</guid>
-      <pubDate>Sun, 14 Jun 2026 13:12:24 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「ねぇ、この魚、新鮮だね！」「ああ、『魚』だけに『ギョッ』とするくらいだろ？」</description>
     </item>
   </channel>
 </rss>
