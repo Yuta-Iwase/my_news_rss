@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 23:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:48:10 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-16) 1304</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-014810</link>
+      <guid isPermaLink="false">gag-20260616-014810</guid>
+      <pubDate>Tue, 16 Jun 2026 01:48:10 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>イルカ、いるか？</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-15) 653</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-231518</link>
@@ -549,16 +557,6 @@ This is good.</description>
       <pubDate>Sun, 14 Jun 2026 13:12:24 +0000</pubDate>
       <category>ギャグ</category>
       <description>「ねぇ、この魚、新鮮だね！」「ああ、『魚』だけに『ギョッ』とするくらいだろ？」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 617</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-112553</link>
-      <guid isPermaLink="false">gag-20260614-112553</guid>
-      <pubDate>Sun, 14 Jun 2026 11:25:53 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>カニが甲羅を背負って大変そうだねって聞いたら、
-「いや、俺たちにとっては軽いんだ！」って言ってたよ。
-だって、カニは「軽い」からね！</description>
     </item>
   </channel>
 </rss>
