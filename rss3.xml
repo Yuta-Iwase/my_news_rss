@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 03:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:50:53 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-17) 405</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-085053</link>
+      <guid isPermaLink="false">gag-20260617-085053</guid>
+      <pubDate>Wed, 17 Jun 2026 08:50:53 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>警察官が「止まれ！」って言っても止まらない果物ってなーんだ？
+梨（なし）</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-17) 317</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-034338</link>
@@ -302,14 +311,6 @@ The output should *only* be the gag text.
 "コーヒー豆って、なんでいつも忙しいの？… 毎日マメに働いてるからね！"
 
 Looks good.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 307</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-234045</link>
-      <guid isPermaLink="false">gag-20260614-234045</guid>
-      <pubDate>Sun, 14 Jun 2026 23:40:45 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>お茶にする？…いや、お札にする！</description>
     </item>
   </channel>
 </rss>
