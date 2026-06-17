@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 16:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 19:07:42 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-17) 427</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-190742</link>
+      <guid isPermaLink="false">gag-20260617-190742</guid>
+      <pubDate>Wed, 17 Jun 2026 19:07:42 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「いやー、最近腰が痛くてさ。医者に行ったら『これはコシが抜けてますね』って言われたよ。麺か！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-17) 139</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-163014</link>
@@ -274,66 +282,6 @@ This feels right.</description>
       <pubDate>Mon, 15 Jun 2026 18:13:47 +0000</pubDate>
       <category>ギャグ</category>
       <description>傘を貸してって言われたんだけど、断ったんだ。だって、「傘」は「貸さん！」からね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-15) 978</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-133553</link>
-      <guid isPermaLink="false">gag-20260615-133553</guid>
-      <pubDate>Mon, 15 Jun 2026 13:35:53 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>THOUGHTS: The user wants a single, interesting "Oyaji gag" (dad joke) in Japanese.
-The output should *only* be the text of the gag, with no extra explanation, intro, or greetings.
-
-I need to come up with a Japanese dad joke.
-Criteria for a good dad joke:
-1.  **Puns/Wordplay:** Often plays on similar-sounding words or different meanings of the same word.
-2.  **Slightly groan-worthy:** Not necessarily hilarious, but clever enough to elicit a small groan or a smile.
-3.  **Relatively simple:** Easy to understand.
-
-Let's brainstorm some ideas.
-
-*   **Food related:**
-    *   パン (pan - bread) -&gt; パンダ (panda) -&gt; 「パンはパンでも食べられないパンは何だ？」「フライパン！」 (What kind of pan can't you eat? A frying pan!) - This is a classic riddle/gag, might be too well known.
-    *   お茶 (ocha - tea) -&gt; お家 (ouchi - house) -&gt; 「お茶を飲んで、お茶でもしようか。」 (Let's drink tea, and then let's go home/house.) - A bit weak.
-    *   イカ (ika - squid) -&gt; 「イカはイカしてもらう？」 (Can I get a squid, please?) - Doesn't quite land.
-    *   エビ (ebi - shrimp) -&gt; 「エビフライはエビフライする前に、まず何をしますか？」「エビをむきます。」 (What do you do before you fry shrimp? You peel them.) - Not a pun.
-
-*   **Animal related:**
-    *   キリン (kirin - giraffe) -&gt; 「キリンが一番長いのって何？」「首。」 (What's longest on a giraffe? Its neck.) - Not a pun.
-    *   ゾウ (zou - elephant) -&gt; 「ゾウさんがいつも持っているものって何？」「花。」 (What does an elephant always have? A flower/nose.) - Hana (nose) is a bit too direct.
-
-*   **Daily life/Objects:**
-    *   布団 (futon) -&gt; 「布団が吹っ飛んだ！」 (The futon flew away!) - Classic, but maybe too simple.
-    *   自転車 (jitensha - bicycle) -&gt; 「自転車に乗ってて転んだら、何て言う？」「いてててて…。」 (If you fall off a bike, what do you say? Ow, ow, ow...) - No pun.
-    *   カバン (kaban - bag) -&gt; 「カバンを貸してくれたのは、だれカバン？」 (Who lent me the bag? Someone!) - "誰か" (dareka - someone) vs "誰カバン". This has potential.
-
-Let's try to refine the "カバン" one.
-"カバンを貸してくれたのは誰だ？" (Who lent me the bag?)
-"誰カバン？" (Dareka-ban? - pun on 誰か - dareka, meaning "someone")
-
-Another one:
-*   **Weather/Nature:**
-    *   雨 (ame - rain) -&gt; 飴 (ame - candy) -&gt; 「雨が降ってきたら、傘をさすけど、飴が降ってきたら、どうする？」「食べる！」 (If it rains, you use an umbrella, but if it rains candy, what do you do? You eat it!) - Not really a pun gag.
-    *   雷 (kaminari - thunder) -&gt; 「雷が鳴っていると、どうなる？」「ピカッとして、ゴロゴロする！」 (What happens when there's thunder? It flashes and rumbles!) - No pun.
-
-Let's go back to the classic structure: "XはXでもYできないXは何だ？" (What kind of X is it that is X, but cannot Y?)
-This is a very common dad joke format.
-"パンはパンでも食べられないパンはなーんだ？"
-"フライパン！" (Furai-pan - frying pan)
-
-This is a good, solid, classic oyaji gag. It fulfills all criteria:
-1.  **Pun:** パン (pan - bread) vs フライパン (furai-pan - frying pan)
-2.  **Groan-worthy:** Definitely.
-3.  **Simple:** Yes.
-4.  **Japanese:** Yes.
-5.  **Output format:** Text only.
-
-I think this is a good choice.
-Let's make sure the phrasing is natural.
-"パンはパンでも、食べられないパンはなーんだ？" (What kind of pan is it that is pan, but you can't eat it?)
-"フライパン！" (A frying pan!)
-
-Yes, this works perfectly.</description>
     </item>
   </channel>
 </rss>
