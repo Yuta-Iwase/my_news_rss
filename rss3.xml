@@ -5,7 +5,17 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 21:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 22:54:26 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-17) 1314</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-225426</link>
+      <guid isPermaLink="false">gag-20260617-225426</guid>
+      <pubDate>Wed, 17 Jun 2026 22:54:26 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>メロンはメロンでも、マスクをつけてるメロンはなーんだ？
+
+…マスクメロン！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-17) 1886</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-211949</link>
@@ -388,14 +398,6 @@ It's a simple sentence structure.
 "月曜だい！" (Getsuyou dai!) = It's Monday! / It's already Monday! (pun with "Getsuyoubi")
 
 This feels right.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-15) 581</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-212410</link>
-      <guid isPermaLink="false">gag-20260615-212410</guid>
-      <pubDate>Mon, 15 Jun 2026 21:24:10 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>部長が居眠りしている部下を見て一言。「君、もう夢中かい？」</description>
     </item>
   </channel>
 </rss>
