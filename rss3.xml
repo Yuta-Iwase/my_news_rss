@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 08:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:47:05 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-17) 1285</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-124705</link>
+      <guid isPermaLink="false">gag-20260617-124705</guid>
+      <pubDate>Wed, 17 Jun 2026 12:47:05 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>カエルを飼いたいんだけど、カエル、買えるかな？</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-17) 405</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-085053</link>
@@ -273,44 +281,6 @@ Yes, this works perfectly.</description>
       <pubDate>Mon, 15 Jun 2026 07:34:31 +0000</pubDate>
       <category>ギャグ</category>
       <description>お肉と野菜、どっちが好き？って聞かれても、やっぱり『肉（にくい）』よね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-15) 1602</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260615-020639</link>
-      <guid isPermaLink="false">gag-20260615-020639</guid>
-      <pubDate>Mon, 15 Jun 2026 02:06:39 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>THOUGHTS: The user wants a single, interesting "Oyaji gag" (dad joke) in Japanese.
-The output should *only* be the text of the gag, with no extra explanations, intros, or greetings.
-
-I need to come up with a pun or simple wordplay typical of dad jokes.
-Let's try a few ideas:
-
-1.  **Food related:**
-    *   "ねぇ、このカレー、辛口だけど、もっとカラくならない？" (Hey, this curry is spicy, but can't it get *more* spicy? - pun on 辛口 / karakuchi and からく / karaku meaning 'spicy' or 'empty/hollow' - maybe too complex or not funny enough)
-    *   "お寿司が好きな人は、いつも『お寿司、好きだね！』って言われるよね。" (People who like sushi are always told 'You like sushi!' - pun on 'suki da ne' meaning 'you like it, don't you?' and 'suki' for liking. This is weak.)
-    *   "パン屋さんが焼きたてのパンを運んでる時、どこを見てると思う？ パンの道だよ！" (When a baker is carrying freshly baked bread, where do you think they're looking? The bread's path! - pun on 'pan no michi' (path of bread) and 'pan no mimi' (crust of bread) - this is a classic, but maybe not original enough.)
-    *   "コーヒー豆って、なんでいつも忙しいの？… 毎日マメに働いてるからね！" (Why are coffee beans always busy? ... Because they work diligently (mame ni) every day! - 'mame' means bean, and 'mame ni' means diligently/regularly. This is a good one. It's concise and uses a common Japanese pun.)
-
-2.  **Animal related:**
-    *   "ライオンが好きな野菜は何？ レタス (Let us)！" (What vegetable do lions like? Lettuce! - classic English one, doesn't work in Japanese.)
-    *   "ゾウさんがいつも持ってるものは何？ 忘れ物！" (What does an elephant always carry? Lost items! - this is a bit dark, maybe not 'interesting' and too common.)
-    *   "ネコが乗ってる車は何？…キャットカー！" (What car does a cat ride? A cat car! - too simple, not really a pun.)
-
-3.  **Everyday objects/situations:**
-    *   "パソコンって、なんでいつも疲れてるの？… 『キー』ボード叩きすぎてるからだよ！" (Why is a computer always tired? ... Because it's hitting the keyboard too much! - pun on 'key' (as in keys on a keyboard) and 'kii' (as in 'ki' from 'tsukareteru ki' - 'feeling tired'). A bit of a stretch.)
-    *   "警察官が好きな飲み物って何？… ホットコーヒー！(Hot coffee!)" (What drink do police officers like? Hot coffee! - pun on 'hotto' (relieved) and 'hotto cofee'. This is a common and decent one.)
-
-Let's go with the coffee bean one or the police officer one. The coffee bean one is pretty standard and gets the point across well. The police officer one is also good.
-
-"コーヒー豆って、なんでいつも忙しいの？… 毎日マメに働いてるからね！"
-
-This one works. It's a classic style of dad joke in Japanese.
-The output should *only* be the gag text.
-
-"コーヒー豆って、なんでいつも忙しいの？… 毎日マメに働いてるからね！"
-
-Looks good.</description>
     </item>
   </channel>
 </rss>
