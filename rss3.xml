@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 23:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:43:38 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-17) 317</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-034338</link>
+      <guid isPermaLink="false">gag-20260617-034338</guid>
+      <pubDate>Wed, 17 Jun 2026 03:43:38 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>---</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-16) 1567</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-235631</link>
@@ -302,14 +310,6 @@ Looks good.</description>
       <pubDate>Sun, 14 Jun 2026 23:40:45 +0000</pubDate>
       <category>ギャグ</category>
       <description>お茶にする？…いや、お札にする！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-14) 254</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260614-221954</link>
-      <guid isPermaLink="false">gag-20260614-221954</guid>
-      <pubDate>Sun, 14 Jun 2026 22:19:54 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>犬が走ってるね。まさに「ドッグ」走！</description>
     </item>
   </channel>
 </rss>
