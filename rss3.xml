@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 05:04:19 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-18) 1137</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-050419</link>
+      <guid isPermaLink="false">gag-20260618-050419</guid>
+      <pubDate>Thu, 18 Jun 2026 05:04:19 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>海でサメに遭遇！「助けてー！」って叫んだら、サメが「え？サメ？」って聞き返してきた。</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-18) 928</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-001131</link>
@@ -381,14 +389,6 @@ Okay, I will just output the two lines.</description>
 「お父さん、また変なこと言ってる」
 
 「え？　俺、今まさに『新発見』してるんだがな。『今日の寿司ネタ、マグロじゃなくてアワビだった！』って」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-16) 1304</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-014810</link>
-      <guid isPermaLink="false">gag-20260616-014810</guid>
-      <pubDate>Tue, 16 Jun 2026 01:48:10 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>イルカ、いるか？</description>
     </item>
   </channel>
 </rss>
