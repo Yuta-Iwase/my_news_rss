@@ -5,7 +5,17 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 16:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:33:03 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-18) 968</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-183303</link>
+      <guid isPermaLink="false">gag-20260618-183303</guid>
+      <pubDate>Thu, 18 Jun 2026 18:33:03 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>今日のオヤジギャグ：
+
+「この店、なんでこんなに人がいないんだ？」「あ、それはきっと、店員さんがみんな「まじ（マジ）」「マジで」って言ってて、客が来ないからだよ。」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-18) 719</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-160401</link>
@@ -378,14 +388,6 @@ Okay, I will just output the two lines.</description>
       <pubDate>Tue, 16 Jun 2026 22:28:22 +0000</pubDate>
       <category>ギャグ</category>
       <description>カフェで「これ、コーヒー？」って聞いたら、「はい、こうひいてます」って言われたよ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-16) 609</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-202507</link>
-      <guid isPermaLink="false">gag-20260616-202507</guid>
-      <pubDate>Tue, 16 Jun 2026 20:25:07 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>考えないでください、それは「カンガルー」です！</description>
     </item>
   </channel>
 </rss>
