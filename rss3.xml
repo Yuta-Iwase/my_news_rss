@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 18:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:07:58 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-18) 1421</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-210758</link>
+      <guid isPermaLink="false">gag-20260618-210758</guid>
+      <pubDate>Thu, 18 Jun 2026 21:07:58 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>石の上にも三年、だがビールは3秒でなくなる。なぜならビールは石じゃないからな！ガハハ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-18) 968</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-183303</link>
@@ -380,14 +388,6 @@ Okay, I will just output the two lines.</description>
 最終決定：「ねぇ、お皿洗ってくれる？…『あらい』、助かるわー！」
 
 よし、これでいこう。</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-16) 552</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-222822</link>
-      <guid isPermaLink="false">gag-20260616-222822</guid>
-      <pubDate>Tue, 16 Jun 2026 22:28:22 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>カフェで「これ、コーヒー？」って聞いたら、「はい、こうひいてます」って言われたよ！</description>
     </item>
   </channel>
 </rss>
