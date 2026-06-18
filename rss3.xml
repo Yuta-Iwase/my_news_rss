@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:04:01 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-18) 719</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-160401</link>
+      <guid isPermaLink="false">gag-20260618-160401</guid>
+      <pubDate>Thu, 18 Jun 2026 16:04:01 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-18) 1867</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-123622</link>
@@ -378,14 +386,6 @@ Okay, I will just output the two lines.</description>
       <pubDate>Tue, 16 Jun 2026 20:25:07 +0000</pubDate>
       <category>ギャグ</category>
       <description>考えないでください、それは「カンガルー」です！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-16) 459</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260616-172944</link>
-      <guid isPermaLink="false">gag-20260616-172944</guid>
-      <pubDate>Tue, 16 Jun 2026 17:29:44 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>昨日、パン屋さんで「パンは焼き立てですか？」って聞いたら、店員さんに「いいえ、私の名前は佐藤です」って言われたんだ。</description>
     </item>
   </channel>
 </rss>
