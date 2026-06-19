@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 14:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:56:12 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-19) 1782</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-165612</link>
+      <guid isPermaLink="false">gag-20260619-165612</guid>
+      <pubDate>Fri, 19 Jun 2026 16:56:12 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-19) 936</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-142513</link>
@@ -369,14 +377,6 @@ A: 「まるで…イスラエル！」
 よし、これで決定。[/THINK]ねぇ、この椅子、古くてガタガタだからそろそろ買い替え時だね。
 え、なんで？
 だって…イスラエル！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-17) 427</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-190742</link>
-      <guid isPermaLink="false">gag-20260617-190742</guid>
-      <pubDate>Wed, 17 Jun 2026 19:07:42 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「いやー、最近腰が痛くてさ。医者に行ったら『これはコシが抜けてますね』って言われたよ。麺か！」</description>
     </item>
   </channel>
 </rss>
