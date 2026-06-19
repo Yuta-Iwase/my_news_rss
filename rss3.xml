@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 06:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:26:57 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-19) 903</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-112657</link>
+      <guid isPermaLink="false">gag-20260619-112657</guid>
+      <pubDate>Fri, 19 Jun 2026 11:26:57 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>最近メンタルが弱ってるんだ…ラーメンでも食べて「メン」タル強化しようかな？</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-19) 1959</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-065946</link>
@@ -421,14 +429,6 @@ No extra context needed.
 
 Final check: "出力はギャグのテキストだけにし、余計な説明や導入、挨拶などは一切含めないでください。"
 Okay, I will just output the two lines.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-17) 1285</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-124705</link>
-      <guid isPermaLink="false">gag-20260617-124705</guid>
-      <pubDate>Wed, 17 Jun 2026 12:47:05 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>カエルを飼いたいんだけど、カエル、買えるかな？</description>
     </item>
   </channel>
 </rss>
