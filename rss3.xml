@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 23:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:50:43 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-19) 1718</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-015043</link>
+      <guid isPermaLink="false">gag-20260619-015043</guid>
+      <pubDate>Fri, 19 Jun 2026 01:50:43 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「寒いね」
+「うん、今『さむーい』ギャグを考え中なんだ！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-18) 105</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-230240</link>
@@ -420,14 +429,6 @@ Okay, I will just output the two lines.</description>
       <category>ギャグ</category>
       <description>警察官が「止まれ！」って言っても止まらない果物ってなーんだ？
 梨（なし）</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-17) 317</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-034338</link>
-      <guid isPermaLink="false">gag-20260617-034338</guid>
-      <pubDate>Wed, 17 Jun 2026 03:43:38 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>---</description>
     </item>
   </channel>
 </rss>
