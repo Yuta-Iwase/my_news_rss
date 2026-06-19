@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 11:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:25:13 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-19) 936</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-142513</link>
+      <guid isPermaLink="false">gag-20260619-142513</guid>
+      <pubDate>Fri, 19 Jun 2026 14:25:13 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「あの魚、なんて名前だっけ？」
+「うーん…サバ読んじゃった！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-19) 903</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-112657</link>
@@ -368,67 +377,6 @@ A: 「まるで…イスラエル！」
       <pubDate>Wed, 17 Jun 2026 19:07:42 +0000</pubDate>
       <category>ギャグ</category>
       <description>「いやー、最近腰が痛くてさ。医者に行ったら『これはコシが抜けてますね』って言われたよ。麺か！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-17) 139</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260617-163014</link>
-      <guid isPermaLink="false">gag-20260617-163014</guid>
-      <pubDate>Wed, 17 Jun 2026 16:30:14 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>THOUGHTS: The user wants a single, interesting "Oyaji gag" (dad joke/pun) in Japanese.
-The output must be *only* the text of the gag, with no extra explanations or framing.
-
-I need to come up with a pun or a play on words that sounds like something an "oyaji" (middle-aged man) would say, often considered a bit cheesy but can sometimes be clever.
-
-Let's try some common themes for dad jokes:
-1.  **Food puns:**
-    *   Q: なんでパンはいつも怒ってるの？ (Why is bread always angry?) A: イライラしてるから！ (Because it's "iraira" - irritated, sounds like "ira" in a pun context). A bit weak.
-    *   Q: なんでカレーはいつも熱いと思う？ (Why do you think curry is always hot?) A: 辛いからね！ (Because it's spicy - "karai", also means hard/painful. This is a classic pun).
-    *   Q: ワニが一番好きな食べ物は何？ (What's a crocodile's favorite food?) A: カニ！ (Crab! - Sounds like "wani" backward, or just a simple rhyme. A bit too simple.)
-    *   Q: コーヒーが冷めるとどうなる？ (What happens when coffee gets cold?) A: 凍死(こうし)する！ (It freezes to death - kōshi, sounds like coffee.) This is a good one! It's a bit dark but classic dad joke style.
-
-2.  **Animal puns:**
-    *   Q: ゾウが電気を消すとどうなる？ (What happens when an elephant turns off the lights?) A: ゾウ暗い！ (It's "zou kurai" - very dark, sounds like "zou" - elephant). This is a strong contender.
-
-3.  **Everyday object puns:**
-    *   Q: 鉛筆が一番落ち着く場所はどこ？ (Where does a pencil feel most at ease?) A: 芯の中！ (Inside the lead - "shin no naka", sounds like "shin" - heart/core). A bit complex.
-    *   Q: ドアが閉まらないとどうなる？ (What happens if a door doesn't close?) A: 閉まらん！ (It "shimaran" - doesn't close, sounds like Shima-san). Too specific.
-
-Let's go with the coffee one or the elephant one.
-"ゾウが電気を消すとどうなる？ ゾウ暗い！" (Zou ga denki o kesu to dou naru? Zou kurai!)
-This is short, a classic pun (動物の名前 + くらい), and fits the "oyaji gag" criteria well.
-
-Let's try to make it slightly more "interesting" as requested, while still being an oyaji gag.
-The coffee one: コーヒーが冷めるとどうなる？ → 凍死（こうし）する！
-This one is quite good because "凍死" (tōshi, freezing to death) sounds almost exactly like "コーヒー" (kōhii), just a slight change. It's unexpected and a bit dark, which can be part of the "interesting" factor for a dad joke.
-
-Let's try to refine the elephant one to be more "interesting":
-Q: ゾウさんが電気を消すとどうなる？ (What happens when Mr. Elephant turns off the lights?)
-A: ゾウくらい暗くなる。 (It becomes as dark as an elephant - "zou kurai kuraku naru").
-This is a bit more wordy. The original "ゾウ暗い" is punchier.
-
-Let's re-evaluate "面白い" (interesting) in the context of an "oyaji gag". It usually means surprisingly clever, or so bad it's good, or a bit of an unexpected twist.
-
-The coffee one:
-コーヒーが冷めるとどうなる？
-凍死（こうし）する！
-
-This relies on sound play: コー(kō)ヒー(hii) vs 凍(tō)死(shi). It's very close, and the meaning of "凍死" (freezing to death) for coffee getting cold is a funny, slightly morbid exaggeration that works for a dad joke.
-
-Let's compare to another common one:
-Q: パンはパンでも食べられないパンはなーんだ？ (What kind of bread is bread, but can't be eaten?)
-A: フライパン！ (Frying pan!)
-This is a classic riddle-pun, but perhaps less "interesting" than the "凍死" one.
-
-I think the "コーヒーが冷めるとどうなる？ 凍死（こうし）する！" is a strong candidate.
-It's a question and answer format, which is common for these gags.
-It's a pun.
-It's a bit cheesy but also has a clever sound-alike.
-It's short and to the point.
-No extra context needed.
-
-Final check: "出力はギャグのテキストだけにし、余計な説明や導入、挨拶などは一切含めないでください。"
-Okay, I will just output the two lines.</description>
     </item>
   </channel>
 </rss>
