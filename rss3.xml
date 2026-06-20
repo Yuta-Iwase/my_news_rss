@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 19:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 21:08:30 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-20) 1643</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-210830</link>
+      <guid isPermaLink="false">gag-20260620-210830</guid>
+      <pubDate>Sat, 20 Jun 2026 21:08:30 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>---</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-20) 708</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-195215</link>
@@ -217,14 +225,6 @@ Output format: Only the text.</description>
       <category>ギャグ</category>
       <description>パンダが好きなパンって、なーんだ？
 やっぱり「あんパン」だ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-19) 1782</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-165612</link>
-      <guid isPermaLink="false">gag-20260619-165612</guid>
-      <pubDate>Fri, 19 Jun 2026 16:56:12 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
     </item>
   </channel>
 </rss>
