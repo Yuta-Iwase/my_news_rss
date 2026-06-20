@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 22:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 23:42:03 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-20) 199</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-234203</link>
+      <guid isPermaLink="false">gag-20260620-234203</guid>
+      <pubDate>Sat, 20 Jun 2026 23:42:03 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>なんで鉛筆はいつも疲れてるの？
+…芯がないから！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-20) 1992</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-222053</link>
@@ -216,14 +225,6 @@ Output format: Only the text.</description>
       <category>ギャグ</category>
       <description>「ねぇパパ、パンはどこ？」
 「そこにパンだ！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-19) 1735</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-202452</link>
-      <guid isPermaLink="false">gag-20260619-202452</guid>
-      <pubDate>Fri, 19 Jun 2026 20:24:52 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>猫が寝転がってるけど、それはネコだからね！</description>
     </item>
   </channel>
 </rss>
