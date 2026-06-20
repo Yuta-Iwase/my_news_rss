@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 16:53:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 18:06:27 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-20) 521</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-180627</link>
+      <guid isPermaLink="false">gag-20260620-180627</guid>
+      <pubDate>Sat, 20 Jun 2026 18:06:27 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>カエルがいつも元気な理由は？
+ケロリとしているからね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-20) 1984</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-165321</link>
@@ -123,14 +132,6 @@
       <category>ギャグ</category>
       <description>「あの魚、なんて名前だっけ？」
 「うーん…サバ読んじゃった！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-19) 903</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-112657</link>
-      <guid isPermaLink="false">gag-20260619-112657</guid>
-      <pubDate>Fri, 19 Jun 2026 11:26:57 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>最近メンタルが弱ってるんだ…ラーメンでも食べて「メン」タル強化しようかな？</description>
     </item>
   </channel>
 </rss>
