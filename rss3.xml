@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 09:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:44:32 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-20) 1186</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-114432</link>
+      <guid isPermaLink="false">gag-20260620-114432</guid>
+      <pubDate>Sat, 20 Jun 2026 11:44:32 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>パンダって、なんでいつも笹ばっかり食べてるの？
+それはね、彼らにとってはそれが『パン・ダ・フル』な食事だからさ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-20) 530</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-094417</link>
@@ -198,14 +207,6 @@ Double-check:
 
 Confidence Score: 5/5 - This is a straightforward request that I can fulfill accurately.
 Final Decision: Proceed with "ゾウが好きな飲み物は何？ ぞうすい！".</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-18) 1421</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260618-210758</link>
-      <guid isPermaLink="false">gag-20260618-210758</guid>
-      <pubDate>Thu, 18 Jun 2026 21:07:58 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>石の上にも三年、だがビールは3秒でなくなる。なぜならビールは石じゃないからな！ガハハ！</description>
     </item>
   </channel>
 </rss>
