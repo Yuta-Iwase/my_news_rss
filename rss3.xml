@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 21:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 22:20:53 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-20) 1992</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-222053</link>
+      <guid isPermaLink="false">gag-20260620-222053</guid>
+      <pubDate>Sat, 20 Jun 2026 22:20:53 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「このカメラ、ピントが合わないんだ。きっと『ピンと』来てないんだろうな。」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-20) 1643</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-210830</link>
@@ -216,15 +224,6 @@ Output format: Only the text.</description>
       <pubDate>Fri, 19 Jun 2026 20:24:52 +0000</pubDate>
       <category>ギャグ</category>
       <description>猫が寝転がってるけど、それはネコだからね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-19) 960</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-185205</link>
-      <guid isPermaLink="false">gag-20260619-185205</guid>
-      <pubDate>Fri, 19 Jun 2026 18:52:05 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>パンダが好きなパンって、なーんだ？
-やっぱり「あんパン」だ！</description>
     </item>
   </channel>
 </rss>
