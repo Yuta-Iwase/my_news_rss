@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 23:42:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:05:50 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 1155</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-020550</link>
+      <guid isPermaLink="false">gag-20260621-020550</guid>
+      <pubDate>Sun, 21 Jun 2026 02:05:50 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>このコーヒー、ちょっと濃いから、もう一杯『恋』しちゃおうかな！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-20) 199</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-234203</link>
@@ -216,15 +224,6 @@ Output format: Only the text.</description>
       <pubDate>Fri, 19 Jun 2026 22:39:06 +0000</pubDate>
       <category>ギャグ</category>
       <description>サバを読むのは得意だけど、魚のサバは知らないな！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-19) 1643</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-214205</link>
-      <guid isPermaLink="false">gag-20260619-214205</guid>
-      <pubDate>Fri, 19 Jun 2026 21:42:05 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「ねぇパパ、パンはどこ？」
-「そこにパンだ！」</description>
     </item>
   </channel>
 </rss>
