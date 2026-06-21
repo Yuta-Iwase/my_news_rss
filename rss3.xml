@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 21:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:47:01 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 1903</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-224701</link>
+      <guid isPermaLink="false">gag-20260621-224701</guid>
+      <pubDate>Sun, 21 Jun 2026 22:47:01 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「この時計、いつも止まってるんだ。時間が止まるなんて、時効になったのかな？」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 1171</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-213846</link>
@@ -216,14 +224,6 @@ Output format: Only the text.</description>
       <category>ギャグ</category>
       <description>カエルがいつも元気な理由は？
 ケロリとしているからね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 1984</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-165321</link>
-      <guid isPermaLink="false">gag-20260620-165321</guid>
-      <pubDate>Sat, 20 Jun 2026 16:53:21 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>---</description>
     </item>
   </channel>
 </rss>
