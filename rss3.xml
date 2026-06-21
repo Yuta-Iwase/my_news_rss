@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 22:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 23:58:54 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 987</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-235854</link>
+      <guid isPermaLink="false">gag-20260621-235854</guid>
+      <pubDate>Sun, 21 Jun 2026 23:58:54 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「このパン、何でいつも怒ってるの？」
+「だって、不満パンだから！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 1903</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-224701</link>
@@ -215,15 +224,6 @@ The oyaji gyagu is the connection: the squid is "busy" *because* it's always ask
 
 This fits the criteria: a pun, simple, a bit silly, and classic dad joke style.
 Output format: Only the text.</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 521</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-180627</link>
-      <guid isPermaLink="false">gag-20260620-180627</guid>
-      <pubDate>Sat, 20 Jun 2026 18:06:27 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>カエルがいつも元気な理由は？
-ケロリとしているからね！</description>
     </item>
   </channel>
 </rss>
