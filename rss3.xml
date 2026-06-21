@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:59:29 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 1245</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-145929</link>
+      <guid isPermaLink="false">gag-20260621-145929</guid>
+      <pubDate>Sun, 21 Jun 2026 14:59:29 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>お風呂は毎日入るけど、なんでだと思う？「良いフロ」だからだよ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 818</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-123051</link>
@@ -217,14 +225,6 @@ Output format: Only the text.</description>
       <category>ギャグ</category>
       <description>「あ〜、眠い…」
 「なんだ、居眠りか？それじゃ『起案』も捗らないぞ！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 1619</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-061447</link>
-      <guid isPermaLink="false">gag-20260620-061447</guid>
-      <pubDate>Sat, 20 Jun 2026 06:14:47 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>お風呂でパパが一言。「湯」っくりしていってね！</description>
     </item>
   </channel>
 </rss>
