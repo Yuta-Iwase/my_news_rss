@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 10:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:30:51 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 818</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-123051</link>
+      <guid isPermaLink="false">gag-20260621-123051</guid>
+      <pubDate>Sun, 21 Jun 2026 12:30:51 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>魚って、なんでいつも泳いでるの？
+そりゃあ、陸に上がったら「ギョッ！」としちゃうからね！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 1806</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-104040</link>
@@ -216,14 +225,6 @@ Output format: Only the text.</description>
       <pubDate>Sat, 20 Jun 2026 06:14:47 +0000</pubDate>
       <category>ギャグ</category>
       <description>お風呂でパパが一言。「湯」っくりしていってね！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 768</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-015338</link>
-      <guid isPermaLink="false">gag-20260620-015338</guid>
-      <pubDate>Sat, 20 Jun 2026 01:53:38 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「このお茶、冷たいね。…ホットけないな！」</description>
     </item>
   </channel>
 </rss>
