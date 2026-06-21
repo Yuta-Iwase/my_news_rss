@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 16:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:10:47 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 1899</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-181047</link>
+      <guid isPermaLink="false">gag-20260621-181047</guid>
+      <pubDate>Sun, 21 Jun 2026 18:10:47 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>最近、蚊が多くて困るなぁ。…もう、『蚊』ンベンしてくれよ！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 809</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-164758</link>
@@ -215,15 +223,6 @@ Output format: Only the text.</description>
       <pubDate>Sat, 20 Jun 2026 13:14:02 +0000</pubDate>
       <category>ギャグ</category>
       <description>考えすぎると、頭が「パニック」じゃなくて「パニック」になるよ！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 1186</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-114432</link>
-      <guid isPermaLink="false">gag-20260620-114432</guid>
-      <pubDate>Sat, 20 Jun 2026 11:44:32 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>パンダって、なんでいつも笹ばっかり食べてるの？
-それはね、彼らにとってはそれが『パン・ダ・フル』な食事だからさ！</description>
     </item>
   </channel>
 </rss>
