@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 07:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:40:40 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-21) 1806</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-104040</link>
+      <guid isPermaLink="false">gag-20260621-104040</guid>
+      <pubDate>Sun, 21 Jun 2026 10:40:40 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>カンガルーは、いつも何を持っているでしょう？ルー（カレーのね）！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 910</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-070314</link>
@@ -216,15 +224,6 @@ Output format: Only the text.</description>
       <pubDate>Sat, 20 Jun 2026 01:53:38 +0000</pubDate>
       <category>ギャグ</category>
       <description>「このお茶、冷たいね。…ホットけないな！」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-19) 51</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260619-234547</link>
-      <guid isPermaLink="false">gag-20260619-234547</guid>
-      <pubDate>Fri, 19 Jun 2026 23:45:47 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>ゾウはゾウでも、頭が悪いゾウはなーんだ？\
-…バカゾウ！</description>
     </item>
   </channel>
 </rss>
