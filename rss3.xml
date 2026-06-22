@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:36:11 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-22) 1689</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-153611</link>
+      <guid isPermaLink="false">gag-20260622-153611</guid>
+      <pubDate>Mon, 22 Jun 2026 15:36:11 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「このお寿司、いくら？」
+「たくさんありますよ！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-22) 697</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-102953</link>
@@ -124,14 +133,6 @@
       <category>ギャグ</category>
       <description>なんで鉛筆はいつも疲れてるの？
 …芯がないから！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 1992</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-222053</link>
-      <guid isPermaLink="false">gag-20260620-222053</guid>
-      <pubDate>Sat, 20 Jun 2026 22:20:53 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>「このカメラ、ピントが合わないんだ。きっと『ピンと』来てないんだろうな。」</description>
     </item>
   </channel>
 </rss>
