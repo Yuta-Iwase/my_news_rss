@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 21:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 23:05:03 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-22) 1939</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-230503</link>
+      <guid isPermaLink="false">gag-20260622-230503</guid>
+      <pubDate>Mon, 22 Jun 2026 23:05:03 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-22) 1352</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-213132</link>
@@ -123,15 +131,6 @@
       <pubDate>Sun, 21 Jun 2026 10:40:40 +0000</pubDate>
       <category>ギャグ</category>
       <description>カンガルーは、いつも何を持っているでしょう？ルー（カレーのね）！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-21) 910</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-070314</link>
-      <guid isPermaLink="false">gag-20260621-070314</guid>
-      <pubDate>Sun, 21 Jun 2026 07:03:14 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>イルカが逆立ちするとどうなる？
-いるか分からない！</description>
     </item>
   </channel>
 </rss>
