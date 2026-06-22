@@ -5,7 +5,15 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:57:56 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-22) 240</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-185756</link>
+      <guid isPermaLink="false">gag-20260622-185756</guid>
+      <pubDate>Mon, 22 Jun 2026 18:57:56 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>ダミーのギャグ：アルミ缶の上にあるみかん！</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-22) 1689</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-153611</link>
@@ -124,15 +132,6 @@
       <pubDate>Sun, 21 Jun 2026 02:05:50 +0000</pubDate>
       <category>ギャグ</category>
       <description>このコーヒー、ちょっと濃いから、もう一杯『恋』しちゃおうかな！</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 199</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-234203</link>
-      <guid isPermaLink="false">gag-20260620-234203</guid>
-      <pubDate>Sat, 20 Jun 2026 23:42:03 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>なんで鉛筆はいつも疲れてるの？
-…芯がないから！</description>
     </item>
   </channel>
 </rss>
