@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 23:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:47:21 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-22) 767</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-044721</link>
+      <guid isPermaLink="false">gag-20260622-044721</guid>
+      <pubDate>Mon, 22 Jun 2026 04:47:21 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「パンはパンでも食べられないパンはなあに？」
+「フライパン！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-21) 987</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260621-235854</link>
@@ -122,108 +131,6 @@
       <pubDate>Sat, 20 Jun 2026 21:08:30 +0000</pubDate>
       <category>ギャグ</category>
       <description>---</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 708</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-195215</link>
-      <guid isPermaLink="false">gag-20260620-195215</guid>
-      <pubDate>Sat, 20 Jun 2026 19:52:15 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>THOUGHT: The user wants one interesting dad joke (oyaji gyagu) in Japanese.
-The output should be only the text of the joke, with no extra explanations or greetings.
-
-Let's brainstorm some dad joke concepts:
-1.  **Play on words/homophones:** This is a classic.
-2.  **Unexpected twist:** Set up a normal situation, then deliver a pun.
-3.  **Relatable (but cheesy) scenarios:** Food, animals, daily life.
-
-Consider some Japanese homophones or common phrases that can be twisted:
-
-*   "ある" (aru - to be/exist) vs "アル" (aru - from 'alcohol')
-*   "お茶" (ocha - tea)
-*   "パン" (pan - bread)
-*   "寒い" (samui - cold) vs "財布" (saifu - wallet) - this might be too obvious.
-*   "かえる" (kaeru - frog/to return)
-*   "ふとん" (futon - futon) vs "太い" (futoi - fat) - could work with a "布団が吹っ飛んだ" twist? No, that's too famous.
-
-Let's try a food one, perhaps with "パン" (bread) or "チーズ" (cheese).
-
-Idea 1:
-「ねぇ、チーズが怒っているときって何て言うと思う？」
-「『ふん！』って言うんだよ。」
-(Nee, chiizu ga okotteiru toki tte nante iu to omou?)
-(Fun! tte iu nda yo.)
-- "Fun!" sounds like a sigh of contempt/anger, and it's also a common part of bread (pan, so maybe too close to a different food, or not strong enough a pun).
-- "ふん" is "hmpf", but also part of "ふわふわ" (fluffy) or "ふんわり" (softly). Not quite landing.
-
-Idea 2: A pun on "寒い" (cold).
-「ねぇ、おにぎりが自己紹介するとき、なんて言うと思う？」
-「『おむすびです！』って。だって、握ってるから！」
-(Nee, onigiri ga jikoshōkai suru toki, nante iu to omou?)
-(Omusubi desu! tte. Datte, nigitteru kara!)
-- "おむすび" (omusubi) and "おにぎり" (onigiri) are basically the same thing.
-- "握る" (nigiru) means to grasp/form.
-- The pun is that since it's "formed by grasping" (nigiru), it's "omusubi" (from musubu, to tie/form). It's a bit of a stretch and relies on knowing the nuance between onigiri/omusubi and the verb. Maybe not "interesting" enough.
-
-Idea 3: Using "いか" (squid).
-「ねぇ、イカはいつも忙しいって知ってた？」
-「え、なんで？」
-「だって、いつも『いそがしいか(いそがしいか)』って言ってるから！」
-(Nee, ika wa itsumo isogashii tte shitteta?)
-(E, nande?)
-(Datte, itsumo 'isogashii ka' tte itteru kara!)
-- "いそがしいか" (isogashii ka) means "Is it busy?". It sounds like the end of "いそがしい" (busy) with "イカ" (ika - squid) at the end.
-- This is a classic "X-か" type pun.
-- "イカ" is a common animal used in such puns.
-- This seems quite good for an "oyaji gyagu".
-
-Let's refine Idea 3.
-The setup: "イカはいつも忙しいって知ってた？" (Did you know squid are always busy?)
-The punchline: "だって、いか(イカ)がいつも『いそがしいか？』って聞いてるから！" (Because the squid is always asking 'Are you busy?').
-No, the pun needs to be *from* the squid itself, not *about* the squid.
-
-Revised Idea 3:
-A: 「イカっていつも忙しいらしいよ。」
-B: 「へぇ、なんで？」
-A: 「だって、『いそがしいか』って、いつも聞いてるから！」
-(A: Ika tte itsumo isogashii rashii yo.)
-(B: Hee, nande?)
-(A: Datte, 'isogashii ka' tte, itsumo kiiteru kara!)
-This works better. "いそがしいか" (isogashii ka) can be interpreted as "Is it busy?" (when talking to someone) OR "busy squid" if you separate it wrongly.
-The pun is on the phrase "いそがしいか？" (Is it busy?) sounding like "busy squid".
-It's a bit of a stretch for the "squid is asking" part, but it's a common oyaji gyagu structure.
-
-Let's try another one that is a bit more direct with the sound.
-
-Idea 4: Using "布団が吹っ飛んだ" (futon ga futtonda - the futon flew away) but with a twist.
-This is too famous.
-
-Let's go back to the "いか" idea, but make it clearer.
-The idea is that the "いか" itself is asking "いそがしいか？"
-The pun is "いそがしいか" (isogashii ka - Are you busy?) vs "忙しいイカ" (isogashii ika - busy squid).
-
-How about:
-「ねぇ、イカっていつも忙しいんだって。」
-「なんで？」
-「だって、ずっと『イカが？』って聞いてるから。」
-(Nee, ika tte itsumo isogashii n datte.)
-(Nande?)
-(Datte, zutto 'ikaga?' tte kiiteru kara.)
-
-- "いかが？" (Ikaga?) means "How is it?" or "How about it?".
-- This is a common phrase.
-- The pun is between "いかが？" (Ikaga? - How is it?) and "イカが" (Ika ga - the squid...).
-- So, "Because it's always asking 'How is it?'"
-- And the listener can reinterpret "イカが" as "the squid" which is always asking.
-- This one is good because "いかが？" is a common polite phrase.
-
-This seems solid. "いかが" sounds exactly like "イカが" (the squid).
-The setup "イカっていつも忙しいんだって。" (Squid are always busy, I heard.)
-The punchline "だって、ずっと『いかが？』って聞いてるから！" (Because they're always asking "How is it?").
-The oyaji gyagu is the connection: the squid is "busy" *because* it's always asking "How is it?" (いかが？), which sounds like "イカが" (the squid is...).
-
-This fits the criteria: a pun, simple, a bit silly, and classic dad joke style.
-Output format: Only the text.</description>
     </item>
   </channel>
 </rss>
