@@ -5,7 +5,16 @@
     <link>https://raw.githubusercontent.com/Yuta-Iwase/my_news_rss/refs/heads/main/rss3.xml</link>
     <description>Google Gemini APIによって毎日自動生成される今日のギャグフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 04:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:29:53 +0000</lastBuildDate>
+    <item>
+      <title>今日のギャグ (2026-06-22) 697</title>
+      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-102953</link>
+      <guid isPermaLink="false">gag-20260622-102953</guid>
+      <pubDate>Mon, 22 Jun 2026 10:29:53 +0000</pubDate>
+      <category>ギャグ</category>
+      <description>「ねぇ、そのシャツ、シワだらけだよ！」
+「いや、これは『幸せ』の『しわ』だからね！」</description>
+    </item>
     <item>
       <title>今日のギャグ (2026-06-22) 767</title>
       <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260622-044721</link>
@@ -123,14 +132,6 @@
       <pubDate>Sat, 20 Jun 2026 22:20:53 +0000</pubDate>
       <category>ギャグ</category>
       <description>「このカメラ、ピントが合わないんだ。きっと『ピンと』来てないんだろうな。」</description>
-    </item>
-    <item>
-      <title>今日のギャグ (2026-06-20) 1643</title>
-      <link>https://github.com/Yuta-Iwase/my_news_rss/blob/main/rss3.xml#20260620-210830</link>
-      <guid isPermaLink="false">gag-20260620-210830</guid>
-      <pubDate>Sat, 20 Jun 2026 21:08:30 +0000</pubDate>
-      <category>ギャグ</category>
-      <description>---</description>
     </item>
   </channel>
 </rss>
