@@ -5,22 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 02:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:58:32 GMT</lastBuildDate>
     <item>
-      <title>地球にパッチを当てる：オープンソースメンテナーを支援するDaybreakイニシアティブ(Patch the Planet: a Daybreak initiative to support open source maintainers)</title>
-      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
-      <link>https://openai.com/index/patch-the-planet</link>
-      <guid isPermaLink="true">https://openai.com/index/patch-the-planet</guid>
-      <category>Security</category>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Daybreak：世界中のあらゆる組織を保護するためのツール(Daybreak: Tools for securing every organization in the world)</title>
-      <description>OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.</description>
-      <link>https://openai.com/index/daybreak-securing-the-world</link>
-      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world</guid>
-      <category>Security</category>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <title>高度なAIのための共有標準構築を支援(Helping build shared standards for advanced AI)</title>
+      <description>OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.</description>
+      <link>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-build-shared-standards-for-advanced-ai</guid>
+      <category>Global Affairs</category>
+      <pubDate>Tue, 23 Jun 2026 13:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
