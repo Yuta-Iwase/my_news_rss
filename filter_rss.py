@@ -35,6 +35,15 @@ FEEDS = [
         "feed_link": "https://www.anthropic.com/news",
         "feed_description": "Anthropic News から選別された記事フィード",
     },
+    {
+        "name": "Google-Selection",
+        "source_url": "https://blog.google/rss/",
+        "prompt_file": "google-prompt.txt",
+        "output_file": "google-selection.xml",
+        "feed_title": "Google-Selection",
+        "feed_link": "https://blog.google/",
+        "feed_description": "Google Blog から選別された記事フィード",
+    },
 ]
 
 GEMINI_MODEL = "gemini-2.5-flash"
