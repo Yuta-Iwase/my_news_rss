@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>OpenAI-Selection</title>
+    <link>https://openai.com/news</link>
+    <description>OpenAI News から選別された記事フィード</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 01:31:46 GMT</lastBuildDate>
+    <item>
+      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <guid isPermaLink="true">https://openai.com/index/patch-the-planet</guid>
+      <category>Security</category>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daybreak: Tools for securing every organization in the world</title>
+      <description>OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.</description>
+      <link>https://openai.com/index/daybreak-securing-the-world</link>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world</guid>
+      <category>Security</category>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

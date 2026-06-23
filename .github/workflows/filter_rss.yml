@@ -1,17 +1,17 @@
-name: Generate Daily Gag
+name: Filter RSS Feeds
 
 on:
   schedule:
-    # 10分ごとに実行
-    - cron: '*/10 * * * *'
+    # UTC 19:00 = JST 04:00 に毎日実行
+    - cron: '0 19 * * *'
   workflow_dispatch: # 手動実行可能にする
 
 jobs:
-  generate:
+  filter:
     runs-on: ubuntu-latest
 
     permissions:
-      # Write permission is needed to commit and push changes back
+      # コミット＆プッシュに write 権限が必要
       contents: write
 
     steps:
@@ -23,14 +23,14 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run gag generator script
+      - name: Run RSS filter script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY || 'THISISDUMMYKEY' }}
-        run: python generate_gag.py
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python filter_rss.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add rss3.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update rss3.xml with today's gag" && git push)
+          git add openai-selection.xml anthropic-selection.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS selection feeds" && git push)
