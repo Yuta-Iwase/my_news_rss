@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Anthropic-Selection</title>
+    <link>https://www.anthropic.com/news</link>
+    <description>Anthropic News から選別された記事フィード</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Jun 2026 01:31:46 GMT</lastBuildDate>
+  </channel>
+</rss>
