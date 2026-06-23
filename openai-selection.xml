@@ -5,9 +5,9 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 01:31:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:47:11 GMT</lastBuildDate>
     <item>
-      <title>Patch the Planet: a Daybreak initiative to support open source maintainers</title>
+      <title>地球にパッチを当てる：オープンソースメンテナーを支援するDaybreakイニシアティブ(Patch the Planet: a Daybreak initiative to support open source maintainers)</title>
       <description>OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.</description>
       <link>https://openai.com/index/patch-the-planet</link>
       <guid isPermaLink="true">https://openai.com/index/patch-the-planet</guid>
@@ -15,7 +15,7 @@
       <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Daybreak: Tools for securing every organization in the world</title>
+      <title>Daybreak：世界中のあらゆる組織を保護するためのツール(Daybreak: Tools for securing every organization in the world)</title>
       <description>OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.</description>
       <link>https://openai.com/index/daybreak-securing-the-world</link>
       <guid isPermaLink="true">https://openai.com/index/daybreak-securing-the-world</guid>
