@@ -157,6 +157,7 @@ def filter_with_llm(items: list[ET.Element], prompt_file: str, api_key: str) -> 
             info = extract_item_info(item)
             # タイトルで判定結果をマッチング
             included = True  # デフォルトは残す
+            matched_judgment = None
             for j in judgments:
                 if j.get("title", "").strip() == info["title"]:
                     included = j.get("include", True)
@@ -165,12 +166,20 @@ def filter_with_llm(items: list[ET.Element], prompt_file: str, api_key: str) -> 
                     print(f"    [{status}] {info['title']}")
                     if reason:
                         print(f"           Reason: {reason}")
+                    matched_judgment = j
                     break
             else:
                 # マッチする判定がなければ残す
                 print(f"    [KEEP - no match] {info['title']}")
 
             if included:
+                if matched_judgment:
+                    translated_title = matched_judgment.get("translated_title", "").strip()
+                    if translated_title and translated_title != info["title"]:
+                        title_el = item.find("title")
+                        if title_el is not None:
+                            print(f"    [TRANSLATE] {info['title']} -> {translated_title}")
+                            title_el.text = translated_title
                 filtered.append(item)
 
         print(f"  Filtering result: {len(items)} -> {len(filtered)} articles")

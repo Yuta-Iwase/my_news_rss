@@ -16,12 +16,23 @@
 - OpenAIの企業活動（買収、パートナーシップ発表、資金調達など）に関する記事
 - 判断に迷う場合は残してください（疑わしきは残す）
 
+## タイトル翻訳ルール
+元の記事タイトルが英語の場合、日本語に翻訳したタイトルを作成してください。
+出力する `translated_title` は以下のフォーマットにしてください:
+  {日本語タイトル}({英語タイトル})
+
+例:
+  - 元タイトル: "Patch the Planet: a Daybreak initiative to support open source maintainers"
+  - translated_title: "地球にパッチを当てる：オープンソースメンテナーを支援するDaybreakイニシアティブ(Patch the Planet: a Daybreak initiative to support open source maintainers)"
+
+元のタイトルが既に日本語の場合は、そのまま `translated_title` に設定してください。
+
 ## 出力形式
 各記事について、以下のJSON形式で判定結果を返してください。
 他のテキストは一切出力しないでください。
 
 [
-  {"title": "記事タイトル", "include": true/false, "reason": "判定理由"}
+  {"title": "元の記事タイトル", "translated_title": "日本語タイトル(英語タイトル)", "include": true/false, "reason": "判定理由"}
 ]
 
 ## 記事リスト
