@@ -5,14 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 20:58:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:28:04 GMT</lastBuildDate>
     <item>
-      <title>高度なAIのための共有標準構築を支援(Helping build shared standards for advanced AI)</title>
-      <description>OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.</description>
-      <link>https://openai.com/index/helping-build-shared-standards-for-advanced-ai</link>
-      <guid isPermaLink="true">https://openai.com/index/helping-build-shared-standards-for-advanced-ai</guid>
-      <category>Global Affairs</category>
-      <pubDate>Tue, 23 Jun 2026 13:00:00 GMT</pubDate>
+      <title>OpenAIとBroadcomがLLM最適化推論チップを発表(OpenAI and Broadcom unveil LLM-optimized inference chip)</title>
+      <description>OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.</description>
+      <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
+      <category>Company</category>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
