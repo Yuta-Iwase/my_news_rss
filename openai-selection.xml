@@ -5,14 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 20:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:51:47 GMT</lastBuildDate>
     <item>
-      <title>OpenAIとBroadcomがLLM最適化推論チップを発表(OpenAI and Broadcom unveil LLM-optimized inference chip)</title>
-      <description>OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.</description>
-      <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
-      <guid isPermaLink="true">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
+      <title>エージェントがどのように仕事を変革しているか(How agents are transforming work)</title>
+      <description>A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.</description>
+      <link>https://openai.com/index/how-agents-are-transforming-work</link>
+      <guid isPermaLink="true">https://openai.com/index/how-agents-are-transforming-work</guid>
       <category>Company</category>
-      <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
+      <pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
