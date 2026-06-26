@@ -5,14 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 20:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:27:29 GMT</lastBuildDate>
     <item>
-      <title>エージェントがどのように仕事を変革しているか(How agents are transforming work)</title>
-      <description>A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.</description>
-      <link>https://openai.com/index/how-agents-are-transforming-work</link>
-      <guid isPermaLink="true">https://openai.com/index/how-agents-are-transforming-work</guid>
-      <category>Company</category>
-      <pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
+      <title>GPT-5.6 Solのプレビュー：次世代モデル(Previewing GPT-5.6 Sol: a next-generation model)</title>
+      <description>OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.</description>
+      <link>https://openai.com/index/previewing-gpt-5-6-sol</link>
+      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol</guid>
+      <category>Product</category>
+      <pubDate>Fri, 26 Jun 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
