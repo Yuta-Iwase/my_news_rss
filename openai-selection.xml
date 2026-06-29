@@ -5,6 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 20:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 20:46:35 GMT</lastBuildDate>
+    <item>
+      <title>ヨーロッパのAI労働力機会をマッピングする(Mapping Europe’s AI Workforce Opportunity)</title>
+      <description>A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.</description>
+      <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
+      <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+      <category>Global Affairs</category>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
