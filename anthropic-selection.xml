@@ -5,6 +5,22 @@
     <link>https://www.anthropic.com/news</link>
     <description>Anthropic News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 20:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:51:42 GMT</lastBuildDate>
+    <item>
+      <title>科学者向けAIワークベンチClaude Scienceが利用可能に(Claude Science, an AI workbench for scientists, is now available)</title>
+      <link>https://www.anthropic.com/news/claude-science-ai-workbench</link>
+      <description>Claude Science, an AI workbench for scientists, is now available</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-science-ai-workbench</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Sonnet 5の紹介(Introducing Claude Sonnet 5)</title>
+      <link>https://www.anthropic.com/news/claude-sonnet-5</link>
+      <description>Introducing Claude Sonnet 5</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-sonnet-5</guid>
+      <category>Product</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

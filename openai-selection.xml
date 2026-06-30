@@ -5,14 +5,36 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 20:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:51:38 GMT</lastBuildDate>
     <item>
-      <title>ヨーロッパのAI労働力機会をマッピングする(Mapping Europe’s AI Workforce Opportunity)</title>
-      <description>A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.</description>
-      <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
-      <guid isPermaLink="true">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
+      <title>ChatGPTの採用がどのように拡大したか(How ChatGPT adoption has expanded)</title>
+      <description>New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.</description>
+      <link>https://openai.com/index/how-chatgpt-adoption-has-expanded</link>
+      <guid isPermaLink="true">https://openai.com/index/how-chatgpt-adoption-has-expanded</guid>
       <category>Global Affairs</category>
-      <pubDate>Mon, 29 Jun 2026 07:00:00 GMT</pubDate>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GeneBench-Proの紹介(Introducing GeneBench-Pro)</title>
+      <description>Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.</description>
+      <link>https://openai.com/index/introducing-genebench-pro</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-genebench-pro</guid>
+      <category>Research</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>コアダンプ疫学：18年前のバグを修正する(Core dump epidemiology: fixing an 18-year-old bug)</title>
+      <description>OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.</description>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+      <guid isPermaLink="true">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+      <category>Engineering</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genebench-Proの内部(Inside Genebench-Pro)</title>
+      <link>https://openai.com/index/genebench-pro/case-studies</link>
+      <guid isPermaLink="true">https://openai.com/index/genebench-pro/case-studies</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
