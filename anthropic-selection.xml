@@ -5,6 +5,30 @@
     <link>https://www.anthropic.com/news</link>
     <description>Anthropic News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 20:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:42:16 GMT</lastBuildDate>
+    <item>
+      <title>Claudeの利用方法を振り返る方法の紹介(Introducing a way to reflect on how you use Claude)</title>
+      <link>https://www.anthropic.com/news/reflect-with-claude</link>
+      <description>Introducing a way to reflect on how you use Claude</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/reflect-with-claude</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ベン・バーナンキがAnthropicの長期利益信託に任命(Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust)</title>
+      <link>https://www.anthropic.com/news/ben-bernanke</link>
+      <description>Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/ben-bernanke</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>難しい質問を募集(Inviting hard questions)</title>
+      <link>https://www.anthropic.com/news/hard-questions</link>
+      <description>Inviting hard questions</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/hard-questions</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

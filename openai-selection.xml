@@ -5,30 +5,30 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 20:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:42:11 GMT</lastBuildDate>
     <item>
-      <title>コーディング評価におけるシグナルとノイズの分離(Separating signal from noise in coding evaluations)</title>
-      <description>A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.</description>
-      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
-      <guid isPermaLink="true">https://openai.com/index/separating-signal-from-noise-coding-evaluations</guid>
-      <category>Research</category>
-      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>K-12教育者が実践的なAIスキルを身につけるのを支援(Helping K–12 educators build practical AI skills)</title>
-      <description>OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.</description>
-      <link>https://openai.com/index/k-12-educators-practical-skills</link>
-      <guid isPermaLink="true">https://openai.com/index/k-12-educators-practical-skills</guid>
-      <category>Global Affairs</category>
-      <pubDate>Wed, 08 Jul 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-Liveの紹介(Introducing GPT-Live)</title>
-      <description>A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.</description>
-      <link>https://openai.com/index/introducing-gpt-live</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-gpt-live</guid>
+      <title>ChatGPTはあなたの最も野心的な仕事のパートナーになりました(ChatGPT is now a partner for your most ambitious work)</title>
+      <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
       <category>Product</category>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.5 バイオバグバウンティ(GPT-5.5 Bio Bug Bounty)</title>
+      <description>Details about the OpenAI Bio Bounty program</description>
+      <link>https://openai.com/index/bio-bug-bounty</link>
+      <guid isPermaLink="true">https://openai.com/index/bio-bug-bounty</guid>
+      <category>Safety</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.6: あなたの野心に合わせてスケールするフロンティアインテリジェンス(GPT-5.6: Frontier intelligence that scales with your ambition)</title>
+      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-6</guid>
+      <category>Product</category>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
