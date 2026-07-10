@@ -5,30 +5,6 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 20:42:11 GMT</lastBuildDate>
-    <item>
-      <title>ChatGPTはあなたの最も野心的な仕事のパートナーになりました(ChatGPT is now a partner for your most ambitious work)</title>
-      <description>ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.</description>
-      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
-      <category>Product</category>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.5 バイオバグバウンティ(GPT-5.5 Bio Bug Bounty)</title>
-      <description>Details about the OpenAI Bio Bounty program</description>
-      <link>https://openai.com/index/bio-bug-bounty</link>
-      <guid isPermaLink="true">https://openai.com/index/bio-bug-bounty</guid>
-      <category>Safety</category>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.6: あなたの野心に合わせてスケールするフロンティアインテリジェンス(GPT-5.6: Frontier intelligence that scales with your ambition)</title>
-      <description>More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.</description>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6</guid>
-      <category>Product</category>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Jul 2026 20:14:23 GMT</lastBuildDate>
   </channel>
 </rss>
