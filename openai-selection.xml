@@ -5,6 +5,30 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:05:19 GMT</lastBuildDate>
+    <item>
+      <title>エージェント時代におけるAI投資の管理方法(How to manage AI investments in the agentic era)</title>
+      <description>Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</description>
+      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
+      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
+      <category>AI Adoption</category>
+      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>営業チームはChatGPT Workをどのように活用するか(How sales teams use ChatGPT Work)</title>
+      <description>See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.</description>
+      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
+      <guid isPermaLink="true">https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
+      <category>OpenAI Academy</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>データサイエンスチームはChatGPT Workをどのように活用するか(How data science teams use ChatGPT Work)</title>
+      <description>See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.</description>
+      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
+      <guid isPermaLink="true">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
+      <category>OpenAI Academy</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
