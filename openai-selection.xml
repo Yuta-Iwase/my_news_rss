@@ -5,30 +5,22 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 20:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:02:44 GMT</lastBuildDate>
     <item>
-      <title>エージェント時代におけるAI投資の管理方法(How to manage AI investments in the agentic era)</title>
-      <description>Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.</description>
-      <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
-      <guid isPermaLink="true">https://openai.com/index/managing-ai-investments-in-agentic-era</guid>
-      <category>AI Adoption</category>
-      <pubDate>Tue, 14 Jul 2026 10:00:00 GMT</pubDate>
+      <title>米国は州および連邦の行動を通じてAIの安全性を推進している(The US is advancing AI safety through state and federal action)</title>
+      <description>OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.</description>
+      <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>営業チームはChatGPT Workをどのように活用するか(How sales teams use ChatGPT Work)</title>
-      <description>See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.</description>
-      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
-      <guid isPermaLink="true">https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
-      <category>OpenAI Academy</category>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>データサイエンスチームはChatGPT Workをどのように活用するか(How data science teams use ChatGPT Work)</title>
-      <description>See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.</description>
-      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
-      <guid isPermaLink="true">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
-      <category>OpenAI Academy</category>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <title>GPT-Red: 堅牢性のための自己改善を解き放つ(GPT-Red: Unlocking Self-Improvement for Robustness)</title>
+      <description>Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.</description>
+      <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
+      <guid isPermaLink="true">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
+      <category>Safety</category>
+      <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
