@@ -5,22 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 20:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:56:32 GMT</lastBuildDate>
     <item>
-      <title>米国は州および連邦の行動を通じてAIの安全性を推進している(The US is advancing AI safety through state and federal action)</title>
-      <description>OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.</description>
-      <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
-      <category>Global Affairs</category>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-Red: 堅牢性のための自己改善を解き放つ(GPT-Red: Unlocking Self-Improvement for Robustness)</title>
-      <description>Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.</description>
-      <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
-      <guid isPermaLink="true">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
+      <title>なぜティーンは安全なAIへのアクセスに値するのか(Why teens deserve access to safe AI)</title>
+      <description>Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.</description>
+      <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
       <category>Safety</category>
-      <pubDate>Wed, 15 Jul 2026 10:00:00 GMT</pubDate>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
