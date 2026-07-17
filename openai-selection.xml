@@ -5,14 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 19:58:25 GMT</lastBuildDate>
     <item>
-      <title>なぜティーンは安全なAIへのアクセスに値するのか(Why teens deserve access to safe AI)</title>
-      <description>Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.</description>
-      <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-      <guid isPermaLink="true">https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
-      <category>Safety</category>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <title>AI時代のスコアカード(A scorecard for the AI age)</title>
+      <description>Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute. </description>
+      <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
+      <guid isPermaLink="true">https://openai.com/index/a-scorecard-for-the-ai-age</guid>
+      <category>Company</category>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
