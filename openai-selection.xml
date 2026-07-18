@@ -5,14 +5,6 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:58:25 GMT</lastBuildDate>
-    <item>
-      <title>AI時代のスコアカード(A scorecard for the AI age)</title>
-      <description>Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute. </description>
-      <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-      <guid isPermaLink="true">https://openai.com/index/a-scorecard-for-the-ai-age</guid>
-      <category>Company</category>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 19:59:01 GMT</lastBuildDate>
   </channel>
 </rss>
