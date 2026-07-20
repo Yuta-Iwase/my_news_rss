@@ -5,6 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 20:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:15:51 GMT</lastBuildDate>
+    <item>
+      <title>長期的モデルの時代における安全性とアライメント(Safety and alignment in an era of long-horizon models)</title>
+      <description>OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.</description>
+      <link>https://openai.com/index/safety-alignment-long-horizon-models</link>
+      <guid isPermaLink="true">https://openai.com/index/safety-alignment-long-horizon-models</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
