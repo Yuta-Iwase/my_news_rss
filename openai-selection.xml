@@ -5,30 +5,30 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 20:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:06:56 GMT</lastBuildDate>
     <item>
-      <title>中小企業向けChatGPTプログラムの紹介(Introducing the ChatGPT for small business program)</title>
-      <description>OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.</description>
-      <link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-small-business-program</guid>
-      <category>AI Adoption</category>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 GMT</pubDate>
+      <title>エフィンガム郡コミュニティとAIインフラを構築(Building AI infrastructure with the Effingham County community)</title>
+      <description>OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.</description>
+      <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
+      <guid isPermaLink="true">https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAIとHugging Face、モデル評価中のセキュリティインシデントに対処するため提携(OpenAI and Hugging Face partner to address security incident during model evaluation)</title>
-      <description>OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.</description>
-      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
-      <guid isPermaLink="true">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
-      <category>Security</category>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
+      <title>国家科学の次なる時代を推進する(Advancing the next era of national science)</title>
+      <description>OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.</description>
+      <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>David VélezとRobin VinceがOpenAI FoundationおよびOpenAI Group PBCの役員会に就任(David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC)</title>
-      <description>David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.</description>
-      <link>https://openai.com/index/david-velez-robin-vince-join-openai-boards</link>
-      <guid isPermaLink="true">https://openai.com/index/david-velez-robin-vince-join-openai-boards</guid>
-      <category>Company</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <title>OpenAI Presenceの紹介(Introducing OpenAI Presence)</title>
+      <description>Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.</description>
+      <link>https://openai.com/index/introducing-openai-presence</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-openai-presence</guid>
+      <category>Product</category>
+      <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
