@@ -5,14 +5,6 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:07:45 GMT</lastBuildDate>
-    <item>
-      <title>ChatGPTでのヘルス機能の開始(Launching Health in ChatGPT)</title>
-      <description>Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.</description>
-      <link>https://openai.com/index/health-in-chatgpt</link>
-      <guid isPermaLink="true">https://openai.com/index/health-in-chatgpt</guid>
-      <category>Product</category>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 20:10:22 GMT</lastBuildDate>
   </channel>
 </rss>
