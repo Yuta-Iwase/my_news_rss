@@ -5,6 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:13:37 GMT</lastBuildDate>
+    <item>
+      <title>AIが仕事で人々の活動をどのように拡大しているか(How AI is expanding what people do at work)</title>
+      <description>New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.</description>
+      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
+      <guid isPermaLink="true">https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
+      <category>Company</category>
+      <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
