@@ -5,14 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 20:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:10:43 GMT</lastBuildDate>
     <item>
-      <title>AIが仕事で人々の活動をどのように拡大しているか(How AI is expanding what people do at work)</title>
-      <description>New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.</description>
-      <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
-      <guid isPermaLink="true">https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</guid>
-      <category>Company</category>
-      <pubDate>Mon, 27 Jul 2026 03:30:00 GMT</pubDate>
+      <title>エージェントAI時代の科学計算(Scientific computing in the age of agentic AI)</title>
+      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
+      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/scientific-computing-agentic-ai</guid>
+      <category>Publication</category>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
