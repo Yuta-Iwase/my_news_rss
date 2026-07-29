@@ -5,14 +5,22 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 20:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:07:46 GMT</lastBuildDate>
     <item>
-      <title>エージェントAI時代の科学計算(Scientific computing in the age of agentic AI)</title>
-      <description>A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.</description>
-      <link>https://openai.com/index/scientific-computing-agentic-ai</link>
-      <guid isPermaLink="true">https://openai.com/index/scientific-computing-agentic-ai</guid>
-      <category>Publication</category>
-      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
+      <title>学術研究者向けChatGPTで科学的発見を加速する(Accelerating scientific discovery with ChatGPT for Academic Researchers)</title>
+      <description>OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.</description>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-academic-researchers</guid>
+      <category>Company</category>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.6がいかに最先端の知能と最先端の効率を融合させるか(How GPT-5.6 fuses frontier intelligence with frontier efficiency)</title>
+      <description>GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.</description>
+      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
