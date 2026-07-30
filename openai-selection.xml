@@ -5,22 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 20:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:10:34 GMT</lastBuildDate>
     <item>
-      <title>学術研究者向けChatGPTで科学的発見を加速する(Accelerating scientific discovery with ChatGPT for Academic Researchers)</title>
-      <description>OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.</description>
-      <link>https://openai.com/index/chatgpt-for-academic-researchers</link>
-      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-academic-researchers</guid>
-      <category>Company</category>
-      <pubDate>Wed, 29 Jul 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.6がいかに最先端の知能と最先端の効率を融合させるか(How GPT-5.6 fuses frontier intelligence with frontier efficiency)</title>
-      <description>GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.</description>
-      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
-      <category>Engineering</category>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+      <title>GPT-5.6で価格性能のフロンティアを前進させる(Advancing the price-performance frontier with GPT-5.6)</title>
+      <description>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</description>
+      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
+      <category>Product</category>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
