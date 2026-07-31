@@ -5,14 +5,29 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 20:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:14:27 GMT</lastBuildDate>
     <item>
-      <title>GPT-5.6で価格性能のフロンティアを前進させる(Advancing the price-performance frontier with GPT-5.6)</title>
-      <description>Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.</description>
-      <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
-      <category>Product</category>
-      <pubDate>Thu, 30 Jul 2026 10:00:00 GMT</pubDate>
+      <title>犯罪詐欺作戦を阻止する(Disrupting a Criminal Scam Operation)</title>
+      <description>OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.</description>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
+      <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ヨーロッパ全体で責任あるAIを推進する(Advancing responsible AI across Europe)</title>
+      <description>OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.</description>
+      <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-responsible-ai-across-europe</guid>
+      <category>Global Affairs</category>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>豊かな知能を構築する(Building abundant intelligence)</title>
+      <description>A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.</description>
+      <link>https://openai.com/index/building-abundant-intelligence</link>
+      <guid isPermaLink="true">https://openai.com/index/building-abundant-intelligence</guid>
+      <category>Company</category>
+      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
