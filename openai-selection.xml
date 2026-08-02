@@ -5,14 +5,6 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 20:05:18 GMT</lastBuildDate>
-    <item>
-      <title>数学と理論計算機科学における10の進歩(Ten advances in mathematics and theoretical computer science)</title>
-      <description>OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.</description>
-      <link>https://openai.com/index/ten-advances-in-mathematics</link>
-      <guid isPermaLink="true">https://openai.com/index/ten-advances-in-mathematics</guid>
-      <category>Publication</category>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Aug 2026 20:06:06 GMT</lastBuildDate>
   </channel>
 </rss>
