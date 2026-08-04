@@ -5,6 +5,22 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 20:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:18:56 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT WorkとCodexで学び、教える新しい方法(New ways to learn and teach with ChatGPT Work and Codex)</title>
+      <description>Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.</description>
+      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+      <guid isPermaLink="true">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+      <category>Product</category>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Appleはこれを間違っている(Apple is getting this wrong)</title>
+      <description>OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.</description>
+      <link>https://openai.com/index/apple-is-getting-this-wrong</link>
+      <guid isPermaLink="true">https://openai.com/index/apple-is-getting-this-wrong</guid>
+      <category>Company</category>
+      <pubDate>Mon, 03 Aug 2026 22:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
