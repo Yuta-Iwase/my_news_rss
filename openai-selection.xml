@@ -5,6 +5,22 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 20:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:36:54 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPTにおけるGPT-5.6 Solの改善と、無料ユーザーへのGPT-5.6 Lunaのアクセス拡大(Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users)</title>
+      <description>ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.</description>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>米国心理学会と協力し、若者のメンタルヘルスとAIに取り組む(Working with the American Psychological Association on youth mental health and AI)</title>
+      <description>OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.</description>
+      <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</guid>
+      <category>Company</category>
+      <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
