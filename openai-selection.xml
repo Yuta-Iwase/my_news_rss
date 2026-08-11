@@ -5,46 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:54:40 GMT</lastBuildDate>
     <item>
-      <title>テキサス州における責任あるAIインフラに関するアボット知事へのOpenAIからの書簡(OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas)</title>
-      <description>OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.</description>
-      <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
-      <guid isPermaLink="true">https://openai.com/index/responsible-ai-infrastructure-texas</guid>
-      <category>Global Affairs</category>
-      <pubDate>Mon, 10 Aug 2026 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AIネイティブな財務機能を構築することで学んだこと(What building an AI-native finance function taught me)</title>
-      <description>OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.</description>
-      <link>https://openai.com/index/building-an-ai-native-finance-function</link>
-      <guid isPermaLink="true">https://openai.com/index/building-an-ai-native-finance-function</guid>
+      <title>ChatGPTでの広告テスト(Testing ads in ChatGPT)</title>
+      <description>OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.</description>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/testing-ads-in-chatgpt</guid>
       <category>Company</category>
-      <pubDate>Mon, 10 Aug 2026 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>サイバー防御の窓が狭まる中、Daybreakを拡大(Expanding Daybreak as the Cyber Defense Window Narrows)</title>
-      <description>Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.</description>
-      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
-      <guid isPermaLink="true">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
-      <category>Security</category>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最先端のサイバーモデルをより信頼できる手に(Putting frontier cyber models in more trusted hands)</title>
-      <description>Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.</description>
-      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
-      <guid isPermaLink="true">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
-      <category>Security</category>
-      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT Businessにプレミアムシートが登場(Premium seats are coming to ChatGPT Business)</title>
-      <description>Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.</description>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="true">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <category>Product</category>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
