@@ -5,6 +5,30 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 19:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:51:21 GMT</lastBuildDate>
+    <item>
+      <title>GPT-5.6のビルダーズガイド(The builder’s guide to GPT‑5.6)</title>
+      <description>Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.</description>
+      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+      <guid isPermaLink="true">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
+      <category>Applied AI</category>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ウルトラファストモードのプレビュー：GPT-5.6 Solが最大14倍の速度で動作(Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed)</title>
+      <description>Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.</description>
+      <link>https://openai.com/index/previewing-ultrafast</link>
+      <guid isPermaLink="true">https://openai.com/index/previewing-ultrafast</guid>
+      <category>Product</category>
+      <pubDate>Thu, 13 Aug 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、Dali Rajicを最高収益責任者に任命(OpenAI appoints Dali Rajic as Chief Revenue Officer)</title>
+      <description>OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.</description>
+      <link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
+      <guid isPermaLink="true">https://openai.com/index/dali-rajic-chief-revenue-officer</guid>
+      <category>Company</category>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
