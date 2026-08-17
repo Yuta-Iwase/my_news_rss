@@ -5,6 +5,30 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Aug 2026 19:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 19:20:46 GMT</lastBuildDate>
+    <item>
+      <title>防御者の窓(The Defender’s Window)</title>
+      <description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.</description>
+      <link>https://openai.com/index/the-defenders-window</link>
+      <guid isPermaLink="true">https://openai.com/index/the-defenders-window</guid>
+      <category>Security</category>
+      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAIがPORTS-Pikeプロジェクトに参加(OpenAI joins PORTS-Pike project)</title>
+      <description>OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs</description>
+      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-joins-ports-pike-project</guid>
+      <category>Global Affairs</category>
+      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>知能時代に向けた新しい政策アイデア(New policy ideas for the Intelligence Age)</title>
+      <description>OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.</description>
+      <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
+      <guid isPermaLink="true">https://openai.com/index/new-policy-ideas-for-the-intelligence-age</guid>
+      <category>Global Affairs</category>
+      <pubDate>Mon, 17 Aug 2026 03:15:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
