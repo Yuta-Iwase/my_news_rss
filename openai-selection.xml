@@ -5,7 +5,31 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 19:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:20:58 GMT</lastBuildDate>
+    <item>
+      <title>CodeAIと提携し、最初のAI世代を育成する(Partnering with CodeAI to prepare the first AI generation)</title>
+      <description>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.</description>
+      <link>https://openai.com/index/partnering-with-codeai</link>
+      <guid isPermaLink="true">https://openai.com/index/partnering-with-codeai</guid>
+      <category>Company</category>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>サイバークリティカルな能力の時代におけるモデル開発のペース設定(Pacing model development in an era of cyber-critical capabilities)</title>
+      <description>OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.</description>
+      <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
+      <guid isPermaLink="true">https://openai.com/index/pacing-model-development-cyber-capabilities</guid>
+      <category>Company</category>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ティーン向けChatGPTの紹介：学習のために構築され、保護によって支えられている(Introducing ChatGPT for Teens: Built for learning, backed by protections)</title>
+      <description>ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.</description>
+      <link>https://openai.com/index/chatgpt-for-teens</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-for-teens</guid>
+      <category>Product</category>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>防御者の窓(The Defender’s Window)</title>
       <description>AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.</description>
