@@ -224,6 +224,24 @@ def generate_rss_xml(
         except Exception as e:
             print(f"  Warning: Could not parse existing RSS file '{output_file}': {e}")
 
+    # 追加前の総レコード数が500以上の場合、./backup フォルダにバックアップして退避（ローテーション）
+    if len(existing_items) >= 500:
+        backup_dir = os.path.join(script_dir, "backup")
+        os.makedirs(backup_dir, exist_ok=True)
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
+        base_name, ext = os.path.splitext(output_file)
+        backup_filename = f"{base_name}_{timestamp}{ext}"
+        backup_path = os.path.join(backup_dir, backup_filename)
+
+        try:
+            import shutil
+            shutil.copy2(output_path, backup_path)
+            print(f"  Existing record count ({len(existing_items)}) reached 500+. Backed up {output_file} to backup/{backup_filename}")
+            # 既存アイテムをクリアして新しくやり直す
+            existing_items = []
+        except Exception as e:
+            print(f"  Warning: Failed to backup file to {backup_path}: {e}")
+
     # アイテムの重複排除用のキー（guid優先、無ければlink、無ければtitle）
     def get_item_key(item: ET.Element) -> str:
         guid = item.find("guid")
