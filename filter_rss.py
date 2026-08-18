@@ -208,7 +208,90 @@ def generate_rss_xml(
     description: str,
     output_file: str,
 ) -> None:
-    """フィルタリング済みアイテムからRSS 2.0 XMLを生成して保存する。"""
+    """フィルタリング済みアイテムからRSS 2.0 XMLを生成して保存する。既存のエントリーは保持してマージする。"""
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(script_dir, output_file)
+
+    existing_items = []
+    if os.path.exists(output_path):
+        try:
+            tree_existing = ET.parse(output_path)
+            root_existing = tree_existing.getroot()
+            channel_existing = root_existing.find("channel")
+            if channel_existing is not None:
+                existing_items = channel_existing.findall("item")
+                print(f"  Loaded {len(existing_items)} existing articles from {output_file}")
+        except Exception as e:
+            print(f"  Warning: Could not parse existing RSS file '{output_file}': {e}")
+
+    # 追加前の総レコード数が500以上の場合、./backup フォルダにバックアップして退避（ローテーション）
+    if len(existing_items) >= 500:
+        backup_dir = os.path.join(script_dir, "backup")
+        os.makedirs(backup_dir, exist_ok=True)
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
+        base_name, ext = os.path.splitext(output_file)
+        backup_filename = f"{base_name}_{timestamp}{ext}"
+        backup_path = os.path.join(backup_dir, backup_filename)
+
+        try:
+            import shutil
+            shutil.copy2(output_path, backup_path)
+            print(f"  Existing record count ({len(existing_items)}) reached 500+. Backed up {output_file} to backup/{backup_filename}")
+            # 既存アイテムをクリアして新しくやり直す
+            existing_items = []
+        except Exception as e:
+            print(f"  Warning: Failed to backup file to {backup_path}: {e}")
+
+    # アイテムの重複排除用のキー（guid優先、無ければlink、無ければtitle）
+    def get_item_key(item: ET.Element) -> str:
+        guid = item.find("guid")
+        if guid is not None and guid.text:
+            return guid.text.strip()
+        link_el = item.find("link")
+        if link_el is not None and link_el.text:
+            return link_el.text.strip()
+        title_el = item.find("title")
+        if title_el is not None and title_el.text:
+            return title_el.text.strip()
+        return ""
+
+    # 新しいアイテムと既存アイテムをマージ（新しいものを優先、または既存に無いものを追加）
+    seen_keys = set()
+    merged_items = []
+
+    # 先に新しいアイテムを追加
+    for item in items:
+        key = get_item_key(item)
+        if key and key in seen_keys:
+            continue
+        if key:
+            seen_keys.add(key)
+        merged_items.append(item)
+
+    # 次に既存のアイテムを追加
+    for item in existing_items:
+        key = get_item_key(item)
+        if key and key in seen_keys:
+            continue
+        if key:
+            seen_keys.add(key)
+        merged_items.append(item)
+
+    # pubDateでソート（新しい順）
+    def parse_item_date(item: ET.Element):
+        pub_date_el = item.find("pubDate")
+        if pub_date_el is not None and pub_date_el.text:
+            try:
+                dt = parsedate_to_datetime(pub_date_el.text)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt
+            except Exception:
+                pass
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    merged_items.sort(key=parse_item_date, reverse=True)
+
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
 
@@ -228,7 +311,7 @@ def generate_rss_xml(
     last_build.text = formatdate(timeval=None, localtime=False, usegmt=True)
 
     # アイテムを追加
-    for item in items:
+    for item in merged_items:
         channel.append(item)
 
     tree = ET.ElementTree(rss)
@@ -237,10 +320,8 @@ def generate_rss_xml(
     except AttributeError:
         pass  # Python 3.8 以前では ET.indent が使えない
 
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_path = os.path.join(script_dir, output_file)
     tree.write(output_path, encoding="utf-8", xml_declaration=True)
-    print(f"  Wrote {len(items)} articles to {output_file}")
+    print(f"  Wrote total {len(merged_items)} articles to {output_file} (New: {len(items)}, Existing kept: {len(merged_items) - len(items)})")
 
 
 # ── メイン処理 ────────────────────────────────────────
