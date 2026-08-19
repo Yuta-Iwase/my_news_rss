@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:17:58 GMT</lastBuildDate>
+    <item>
+      <title>フロンティアモデル向けにゼロデータ保持を提供(Offering Zero Data Retention for frontier models)</title>
+      <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
+      <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
+      <guid isPermaLink="true">https://openai.com/index/our-commitment-to-zero-data-retention</guid>
+      <category>Company</category>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT広告がヨーロッパ全域に拡大(ChatGPT Ads expands across Europe)</title>
+      <description>ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.</description>
+      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
+      <category>Product</category>
+      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>CodeAIと提携し、最初のAI世代を育成する(Partnering with CodeAI to prepare the first AI generation)</title>
       <description>OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.</description>
