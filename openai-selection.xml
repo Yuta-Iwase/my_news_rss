@@ -5,7 +5,39 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:23:15 GMT</lastBuildDate>
+    <item>
+      <title>豊富なインテリジェンスを支えるフルスタック(The full stack behind abundant intelligence)</title>
+      <description>OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.</description>
+      <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
+      <guid isPermaLink="true">https://openai.com/index/the-full-stack-behind-abundant-intelligence</guid>
+      <category>Company</category>
+      <pubDate>Tue, 25 Aug 2026 07:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jalapeñoの最初の結果は、AI推論における業界をリードする速度と効率性を示している(Jalapeño’s first results show industry-leading speed and efficiency in AI inference)</title>
+      <description>Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.</description>
+      <link>https://openai.com/index/jalapeno-first-results</link>
+      <guid isPermaLink="true">https://openai.com/index/jalapeno-first-results</guid>
+      <category>Engineering</category>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ロシアからの新たな秘密裏の影響力行使キャンペーンを阻止する(Disrupting a new covert influence campaign from Russia)</title>
+      <description>OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.</description>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
+      <guid isPermaLink="true">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
+      <category>Global Affairs</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT WorkとCodex向けAdminプラグインの紹介(Introducing the Admin plugin for ChatGPT Work and Codex)</title>
+      <description>Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.</description>
+      <link>https://openai.com/index/introducing-admin-plugin</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-admin-plugin</guid>
+      <category>AI Adoption</category>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>フロンティアモデル向けにゼロデータ保持を提供(Offering Zero Data Retention for frontier models)</title>
       <description>OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.</description>
