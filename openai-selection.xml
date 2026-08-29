@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 02:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:56:52 GMT</lastBuildDate>
+    <item>
+      <title>SpaceXによる買収後のCursorに関する当社の決定(Our decision on Cursor following its acquisition by SpaceX)</title>
+      <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</description>
+      <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
+      <guid isPermaLink="true">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
+      <category>Company</category>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>タイの次世代AIスタートアップを支援(Supporting Thailand’s next generation of AI startups)</title>
+      <description>OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.</description>
+      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
+      <guid isPermaLink="true">https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
+      <category>Company</category>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>より良い回答、より広い思考：学生がChatGPTと批判的思考トレーニングから得るもの(Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training)</title>
       <description>A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.</description>
