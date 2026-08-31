@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 21:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:04:02 GMT</lastBuildDate>
+    <item>
+      <title>AIへのアクセス拡大におけるマイルストーン(A milestone in expanding access to AI)</title>
+      <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
+      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+      <guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+      <category>Product</category>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceXによる買収後のCursorに関する当社の決定(Our decision on Cursor following its acquisition by SpaceX)</title>
       <description>Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.</description>
