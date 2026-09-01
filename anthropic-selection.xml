@@ -5,7 +5,15 @@
     <link>https://www.anthropic.com/news</link>
     <description>Anthropic News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:30:04 GMT</lastBuildDate>
+    <item>
+      <title>顧客と共にエンタープライズ向けフロンティアセーフガードを開発する(Developing Enterprise Frontier Safeguards with our customers)</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
+      <description>Developing Enterprise Frontier Safeguards with our customers</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/enterprise-frontier-safeguards</guid>
+      <category>Announcements</category>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>AIが幸福に与える影響のより良い評価への資金提供(Funding better evaluations of AI’s impact on wellbeing)</title>
       <link>https://www.anthropic.com/news/wellbeing-research-grants</link>

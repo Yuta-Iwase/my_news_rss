@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 23:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Astraへの道：重要な機能とフロンティアの安全対策(Path to Astra: critical capabilities and frontier safeguards)</title>
+      <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.</description>
+      <link>https://openai.com/index/path-to-astra</link>
+      <guid isPermaLink="true">https://openai.com/index/path-to-astra</guid>
+      <category>Safety</category>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>医療機関はEHRおよび追加の業界データをChatGPTに接続できるようになりました(Healthcare organizations can now connect EHR and additional industry data to ChatGPT)</title>
+      <description>ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.</description>
+      <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+      <category>Product</category>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AIへのアクセス拡大におけるマイルストーン(A milestone in expanding access to AI)</title>
       <description>ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.</description>
