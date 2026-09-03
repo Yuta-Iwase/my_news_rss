@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:30:39 GMT</lastBuildDate>
+    <item>
+      <title>最前線の防衛者のためのDaybreak：不可欠なサービスを保護するための10億ドル(Daybreak for Frontline Defenders: $1B to protect essential services)</title>
+      <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.</description>
+      <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
+      <guid isPermaLink="true">https://openai.com/index/daybreak-for-frontline-defenders</guid>
+      <category>Security</category>
+      <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全性概要：GPT-6 Astra(Safety overview: GPT-6 Astra)</title>
+      <description>GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.</description>
+      <link>https://openai.com/index/safety-overview-gpt-6-astra</link>
+      <guid isPermaLink="true">https://openai.com/index/safety-overview-gpt-6-astra</guid>
+      <category>Safety</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Astraへの道：重要な機能とフロンティアの安全対策(Path to Astra: critical capabilities and frontier safeguards)</title>
       <description>Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.</description>
