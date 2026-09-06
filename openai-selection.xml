@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:56:58 GMT</lastBuildDate>
+    <item>
+      <title>異星人の心(An Alien Mind)</title>
+      <description>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.</description>
+      <link>https://openai.com/index/an-alien-mind</link>
+      <guid isPermaLink="true">https://openai.com/index/an-alien-mind</guid>
+      <category>Safety</category>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究の加速：OpenAIの内部からの視点(Research acceleration: The view inside OpenAI)</title>
+      <description>Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.</description>
+      <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+      <guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
+      <category>Research</category>
+      <pubDate>Sun, 06 Sep 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最前線の防衛者のためのDaybreak：不可欠なサービスを保護するための10億ドル(Daybreak for Frontline Defenders: $1B to protect essential services)</title>
       <description>OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.</description>
