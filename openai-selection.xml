@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:50:35 GMT</lastBuildDate>
+    <item>
+      <title>ウクライナの独立系ジャーナリズムを支援する(Supporting independent journalism in Ukraine)</title>
+      <description>OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.</description>
+      <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
+      <guid isPermaLink="true">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
+      <category>Global Affairs</category>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>異星人の心(An Alien Mind)</title>
       <description>Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.</description>
