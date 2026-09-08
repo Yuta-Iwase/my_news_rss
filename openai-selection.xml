@@ -5,7 +5,47 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 21:50:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:30:50 GMT</lastBuildDate>
+    <item>
+      <title>今や手の届く仕事(The Work Now Within Reach)</title>
+      <description>Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.</description>
+      <link>https://openai.com/index/the-work-now-within-reach</link>
+      <guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
+      <category>Company</category>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Images 2.5の紹介(Introducing ChatGPT Images 2.5)</title>
+      <description>ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.</description>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-images-2-5</guid>
+      <category>Product</category>
+      <pubDate>Tue, 08 Sep 2026 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ナヴィエ-ストークス方程式のミレニアム懸賞問題について(On the Navier–Stokes Millennium Prize Problem)</title>
+      <description>We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.</description>
+      <link>https://openai.com/index/navier-stokes-solution</link>
+      <guid isPermaLink="true">https://openai.com/index/navier-stokes-solution</guid>
+      <category>Research</category>
+      <pubDate>Tue, 08 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIとティーンエイジャーの発達に関する新しい研究のための助成金(Funding grants for new research into AI and teen development)</title>
+      <description>Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.</description>
+      <link>https://openai.com/index/teen-development-research-grants</link>
+      <guid isPermaLink="true">https://openai.com/index/teen-development-research-grants</guid>
+      <category>Safety</category>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、教室から報道機関までジャーナリズムを支援するイニシアチブを拡大(OpenAI expands initiatives to support journalism from classrooms to newsrooms)</title>
+      <description>OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.</description>
+      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+      <guid isPermaLink="true">https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
+      <category>Company</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ウクライナの独立系ジャーナリズムを支援する(Supporting independent journalism in Ukraine)</title>
       <description>OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.</description>
