@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:28:15 GMT</lastBuildDate>
+    <item>
+      <title>10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速にスケーリング(Rapidly scaling online storage to serve over 1 billion ChatGPT users)</title>
+      <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.</description>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>誰もがデータを活用できる時代に(Now everyone can put data to work)</title>
       <description>Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.</description>
