@@ -5,7 +5,7 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:12:06 GMT</lastBuildDate>
     <item>
       <title>10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速にスケーリング(Rapidly scaling online storage to serve over 1 billion ChatGPT users)</title>
       <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.</description>
