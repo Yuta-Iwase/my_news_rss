@@ -5,7 +5,39 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:48:00 GMT</lastBuildDate>
+    <item>
+      <title>高齢者が日常生活でAIを利用するのを支援(Helping older adults use AI in everyday life)</title>
+      <description>OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.</description>
+      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIで広告を再構築する(Reimagining advertising with AI)</title>
+      <description>Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.</description>
+      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
+      <category>Product</category>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIの利用をビジネス価値に結びつける方法(How to connect AI usage to business value)</title>
+      <description>Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.</description>
+      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+      <guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
+      <category>Product</category>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>労働者が新しい働き方を切り開く方法(How workers are unlocking new ways of working)</title>
+      <description>New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.</description>
+      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
+      <guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速にスケーリング(Rapidly scaling online storage to serve over 1 billion ChatGPT users)</title>
       <description>Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.</description>
