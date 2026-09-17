@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:49:54 GMT</lastBuildDate>
+    <item>
+      <title>法律向けAstraの紹介(Introducing Astra for Law)</title>
+      <description>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</description>
+      <link>https://openai.com/index/astra-for-law</link>
+      <guid isPermaLink="true">https://openai.com/index/astra-for-law</guid>
+      <category>Company</category>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>高齢者が日常生活でAIを利用するのを支援(Helping older adults use AI in everyday life)</title>
       <description>OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.</description>

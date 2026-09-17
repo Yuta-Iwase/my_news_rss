@@ -5,7 +5,15 @@
     <link>https://www.anthropic.com/news</link>
     <description>Anthropic News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:49:58 GMT</lastBuildDate>
+    <item>
+      <title>ライフサイエンス検証プログラムの紹介(Introducing the Life Sciences Verification Program)</title>
+      <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
+      <description>Introducing the Life Sciences Verification Program</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/life-sciences-verification-program</guid>
+      <category>Announcements</category>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>顧客と共にエンタープライズ向けフロンティアセーフガードを開発する(Developing Enterprise Frontier Safeguards with our customers)</title>
       <link>https://www.anthropic.com/news/enterprise-frontier-safeguards</link>
