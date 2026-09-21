@@ -5,7 +5,31 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 21:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:22:27 GMT</lastBuildDate>
+    <item>
+      <title>数学と人工知能に関する諮問グループ(Advisory Group on Mathematics and Artificial Intelligence)</title>
+      <description>OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.</description>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+      <category>Company</category>
+      <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIの次の段階のための標準を構築する(Building standards for the next phase of AI)</title>
+      <description>OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.</description>
+      <link>https://openai.com/index/building-standards-next-phase-ai</link>
+      <guid isPermaLink="true">https://openai.com/index/building-standards-next-phase-ai</guid>
+      <category>Global Affairs</category>
+      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新しい学習パスでOpenAI Academyを拡張(Expanding OpenAI Academy with new learning paths)</title>
+      <description>Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.</description>
+      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
+      <guid isPermaLink="true">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
+      <category>Company</category>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法律向けAstraの紹介(Introducing Astra for Law)</title>
       <description>OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.</description>
