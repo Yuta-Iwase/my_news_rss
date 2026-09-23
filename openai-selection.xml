@@ -5,7 +5,47 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 21:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:53:33 GMT</lastBuildDate>
+    <item>
+      <title>2年間のOpenAIアカデミー(Two years of OpenAI Academy)</title>
+      <description>Marking two years of OpenAI Academy and bringing AI skills to even more communities.</description>
+      <link>https://openai.com/index/two-years-of-openai-academy</link>
+      <guid isPermaLink="true">https://openai.com/index/two-years-of-openai-academy</guid>
+      <category>Company</category>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI、ウクライナの民間防衛のためにサイバーアクセスを拡大(OpenAI extends cyber access to Ukraine for civilian defense)</title>
+      <description>OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.</description>
+      <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>サム・アルトマンの国連安全保障理事会での発言(Sam Altman’s remarks at the United Nations Security Council)</title>
+      <description>OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.</description>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="true">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MentalHealthBenchの紹介(Introducing MentalHealthBench)</title>
+      <description>MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.</description>
+      <link>https://openai.com/index/introducing-mentalhealthbench</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-mentalhealthbench</guid>
+      <category>Publication</category>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GrabとOpenAI、東南アジアに実践的なAIスキルをもたらす(Grab and OpenAI bring practical AI skills to Southeast Asia)</title>
+      <description>OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.</description>
+      <link>https://openai.com/index/grab-openai-ai-skills-southeast-asia</link>
+      <guid isPermaLink="true">https://openai.com/index/grab-openai-ai-skills-southeast-asia</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-6のプロンプトキャッシュの改善(Better prompt caching for GPT-6)</title>
       <description>Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.</description>

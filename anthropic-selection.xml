@@ -5,7 +5,15 @@
     <link>https://www.anthropic.com/news</link>
     <description>Anthropic News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 21:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:53:36 GMT</lastBuildDate>
+    <item>
+      <title>ClaudeがCRISPR様リピートを持つ新規酵素システムを発見(Claude discovers a novel enzyme system with CRISPR-like repeats)</title>
+      <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+      <description>Claude discovers a novel enzyme system with CRISPR-like repeats</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</guid>
+      <category>Science</category>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ライフサイエンス検証プログラムの紹介(Introducing the Life Sciences Verification Program)</title>
       <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
