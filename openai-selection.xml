@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 22:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:44:05 GMT</lastBuildDate>
+    <item>
+      <title>協調的なモデル蒸留キャンペーンを阻止する(Disrupting a coordinated model-distillation campaign)</title>
+      <description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.</description>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+      <guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+      <category>Security</category>
+      <pubDate>Wed, 30 Sep 2026 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中小企業がAIを活用できるよう支援する(Helping small businesses put AI to work)</title>
+      <description>OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.</description>
+      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-6.1 Solを発表(Introducing GPT-6.1 Sol)</title>
       <description>Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.</description>
