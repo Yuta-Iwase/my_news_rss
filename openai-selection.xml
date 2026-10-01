@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:57:10 GMT</lastBuildDate>
+    <item>
+      <title>永遠の補完(The eternal complement)</title>
+      <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.</description>
+      <link>https://openai.com/index/the-eternal-complement</link>
+      <guid isPermaLink="true">https://openai.com/index/the-eternal-complement</guid>
+      <category>Intelligence Age</category>
+      <pubDate>Thu, 01 Oct 2026 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>協調的なモデル蒸留キャンペーンを阻止する(Disrupting a coordinated model-distillation campaign)</title>
       <description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.</description>
