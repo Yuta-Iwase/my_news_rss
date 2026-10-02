@@ -5,7 +5,22 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 22:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:41:36 GMT</lastBuildDate>
+    <item>
+      <title>A model guide for the GPT-6 family</title>
+      <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.</description>
+      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
+      <guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
+      <category>Product</category>
+      <pubDate>Fri, 02 Oct 2026 16:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatham scales its capital markets expertise with OpenAI</title>
+      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.</description>
+      <link>https://openai.com/index/chatham-financial</link>
+      <guid isPermaLink="true">https://openai.com/index/chatham-financial</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>永遠の補完(The eternal complement)</title>
       <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.</description>
