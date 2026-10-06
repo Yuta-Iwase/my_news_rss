@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 22:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:29:11 GMT</lastBuildDate>
+    <item>
+      <title>EUテキスト来歴規則に対する私たちのアプローチ(Our approach to EU text provenance rules)</title>
+      <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <guid isPermaLink="true">https://openai.com/index/eu-text-provenance</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人々がAIを使う方法に合わせた広告の構築(Building advertising for the way people use AI)</title>
+      <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.</description>
+      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+      <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
+      <category>Product</category>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>A model guide for the GPT-6 family</title>
       <description>Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.</description>
