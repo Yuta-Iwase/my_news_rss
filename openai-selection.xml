@@ -5,7 +5,31 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:50:17 GMT</lastBuildDate>
+    <item>
+      <title>AtlassianとOpenAIがパートナーシップを拡大し、企業の知識を行動に変える(Atlassian and OpenAI expand partnership to turn enterprise knowledge into action)</title>
+      <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
+      <link>https://openai.com/index/atlassian-partnership</link>
+      <guid isPermaLink="true">https://openai.com/index/atlassian-partnership</guid>
+      <category>Company</category>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数学におけるAIの進捗を共有する(Sharing AI progress in mathematics)</title>
+      <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.</description>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+      <guid isPermaLink="true">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
+      <category>Research</category>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ironcladと共にコンピュータ利用を進化させる(Advancing computer use with Ironclad)</title>
+      <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.</description>
+      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+      <category>Company</category>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>EUテキスト来歴規則に対する私たちのアプローチ(Our approach to EU text provenance rules)</title>
       <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.</description>
