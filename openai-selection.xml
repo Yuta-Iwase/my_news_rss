@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:50:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:23:37 GMT</lastBuildDate>
+    <item>
+      <title>AIの未来を学び、計画し、形作るティーンを支援(Helping teens learn, plan, and shape the future of AI)</title>
+      <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.</description>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <guid isPermaLink="true">https://openai.com/index/teens-learn-and-plan</guid>
+      <category>Product</category>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-6とすべての人にインテリジェントUIを(GPT-6 and Intelligent UI for everyone)</title>
+      <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.</description>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-for-everyone</guid>
+      <category>Product</category>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AtlassianとOpenAIがパートナーシップを拡大し、企業の知識を行動に変える(Atlassian and OpenAI expand partnership to turn enterprise knowledge into action)</title>
       <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.</description>
