@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 23:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:58:59 GMT</lastBuildDate>
+    <item>
+      <title>EUにおけるAIの次の章はエージェントAI(The EU’s next chapter in AI is agentic)</title>
+      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.</description>
+      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+      <guid isPermaLink="true">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AIを利用した「偽装」工作を阻止する(Disrupting AI-enabled “false front” operations)</title>
       <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
