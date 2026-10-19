@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 21:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 22:41:04 GMT</lastBuildDate>
+    <item>
+      <title>低リソースプログラミング言語におけるコーディングの進歩(Advancing Coding in Low-Resource Programming Languages)</title>
+      <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.</description>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
+      <category>Publication</category>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>質問を通じて生徒に考え、学ぶことを教える(Teaching students to think and learn through questions)</title>
       <description>Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.</description>
