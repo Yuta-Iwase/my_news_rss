@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:59:16 GMT</lastBuildDate>
+    <item>
+      <title>OpenAIがOrchestra Bioを買収(OpenAI acquires Orchestra Bio)</title>
+      <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
+      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
+      <category>Company</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>低リソースプログラミング言語におけるコーディングの進歩(Advancing Coding in Low-Resource Programming Languages)</title>
       <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.</description>
