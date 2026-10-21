@@ -5,7 +5,55 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:59:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:02:04 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT Adsが26の新しい国に拡大、10万以上の広告主がプラットフォームを利用(ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform)</title>
+      <description>From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.</description>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+      <category>Product</category>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAIモデルがGoogle Cloudに登場(OpenAI models are coming to Google Cloud)</title>
+      <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.</description>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+      <category>Company</category>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>地球にパッチを当てる：エージェントが重大な脆弱性を発見するグローバルな対応調整(Patch the Planet: global response coordination as agents uncover critical vulnerabilities)</title>
+      <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.</description>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+      <category>Security</category>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ユーザーの信頼と関連性のためにChatGPTの新しい広告スタックを構築した方法(How we built ChatGPT’s novel ad stack for user trust and relevance)</title>
+      <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.</description>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>数千のAIエージェントを使用して生物学的データから新しい手がかりを発見する(Using thousands of AI agents to uncover new leads in biological data)</title>
+      <description>See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.</description>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+      <category>Publication</category>
+      <pubDate>Wed, 21 Oct 2026 04:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>フロンティアAIの民主的ガバナンス、パートII：サイバー防御者を強化する(Democratic governance of frontier AI, part II: Empowering cyber defenders)</title>
+      <description>OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.</description>
+      <link>https://openai.com/index/empowering-cyber-defenders</link>
+      <guid isPermaLink="true">https://openai.com/index/empowering-cyber-defenders</guid>
+      <category>Global Affairs</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAIがOrchestra Bioを買収(OpenAI acquires Orchestra Bio)</title>
       <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.</description>
