@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:59:42 GMT</lastBuildDate>
+    <item>
+      <title>Decisions APIでより応答性の高いアプリを構築する(Build more responsive apps with the Decisions API)</title>
+      <description>Fast, focused, low-cost decisions for any application.</description>
+      <link>https://openai.com/index/decisions-api</link>
+      <guid isPermaLink="true">https://openai.com/index/decisions-api</guid>
+      <category>Product</category>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAIにおけるFDEの意味(What FDE means at OpenAI)</title>
+      <description>What forward deployed engineering means at OpenAI</description>
+      <link>https://openai.com/index/forward-deployed-engineering-means</link>
+      <guid isPermaLink="true">https://openai.com/index/forward-deployed-engineering-means</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT Adsが26の新しい国に拡大、10万以上の広告主がプラットフォームを利用(ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform)</title>
       <description>From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.</description>
