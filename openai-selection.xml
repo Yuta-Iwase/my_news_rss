@@ -5,7 +5,31 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:59:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:46:06 GMT</lastBuildDate>
+    <item>
+      <title>10億人以上のChatGPTユーザーにサービスを提供するためのオンラインストレージの迅速なスケーリング（パートII）(Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II))</title>
+      <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+      <category>Engineering</category>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>フロンティアモデルのトレーニング環境のセキュリティ確保(Securing our frontier model training environment)</title>
+      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+      <category>Security</category>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAIとポーランドのNASKがAIの安全性とセキュリティを推進するために提携(OpenAI and Poland’s NASK partner to advance AI safety and security)</title>
+      <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.</description>
+      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
+      <category>Global Affairs</category>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Decisions APIでより応答性の高いアプリを構築する(Build more responsive apps with the Decisions API)</title>
       <description>Fast, focused, low-cost decisions for any application.</description>
