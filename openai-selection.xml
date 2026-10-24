@@ -5,7 +5,7 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:18:52 GMT</lastBuildDate>
     <item>
       <title>10億人以上のChatGPTユーザーにサービスを提供するためのオンラインストレージの迅速なスケーリング（パートII）(Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II))</title>
       <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.</description>
