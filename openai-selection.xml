@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 22:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:44:51 GMT</lastBuildDate>
+    <item>
+      <title>OpenAIがOracleとの提携を拡大し、そのアプリをChatGPTに導入(OpenAI expands partnership with Oracle to bring its apps to ChatGPT)</title>
+      <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.</description>
+      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/oracle-apps-in-chatgpt</guid>
+      <category>Company</category>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>科学的理解を構築するために学術コミュニティと協力する(Working with academic communities to build scientific understanding)</title>
       <description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.</description>
