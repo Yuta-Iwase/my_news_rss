@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:55:05 GMT</lastBuildDate>
+    <item>
+      <title>OpenAIとServiceNowがエンタープライズワークフロー全体でパートナーシップを拡大(OpenAI and ServiceNow expand partnership across enterprise workflows)</title>
+      <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.</description>
+      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
+      <guid isPermaLink="true">https://openai.com/index/openai-servicenow-partnership-expansion</guid>
+      <category>Company</category>
+      <pubDate>Wed, 28 Oct 2026 13:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>企業の未来(The future of the firm)</title>
+      <description>How AI might enter the org chart—beneath, beside, and between us.</description>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <guid isPermaLink="true">https://openai.com/index/the-future-of-the-firm</guid>
+      <category>Intelligence Age</category>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAIがOracleとの提携を拡大し、そのアプリをChatGPTに導入(OpenAI expands partnership with Oracle to bring its apps to ChatGPT)</title>
       <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.</description>
