@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:02:39 GMT</lastBuildDate>
+    <item>
+      <title>より高性能で有益なAIのための更新されたモデル仕様(An updated Model Spec for more capable and beneficial AI)</title>
+      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="true">https://openai.com/index/updated-model-spec</guid>
+      <category>Safety</category>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>フロンティアモデルのミスアライメントを検出する方法(How we detect frontier model misalignment)</title>
+      <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.</description>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid isPermaLink="true">https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+      <category>Security</category>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAIとServiceNowがエンタープライズワークフロー全体でパートナーシップを拡大(OpenAI and ServiceNow expand partnership across enterprise workflows)</title>
       <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.</description>
