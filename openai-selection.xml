@@ -5,7 +5,31 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:43:35 GMT</lastBuildDate>
+    <item>
+      <title>ウェブサイトがAI学習の選好を表現しやすくする(Making it easier for websites to express AI training preferences)</title>
+      <description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.</description>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
+      <category>Company</category>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>コミュニティ安全報告とティーン向けの新たな保護策(Community safety report and new protections for teens)</title>
+      <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.</description>
+      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+      <guid isPermaLink="true">https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+      <category>Safety</category>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>フェアユースは皆に利益をもたらす(Fair use benefits everyone)</title>
+      <description>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.</description>
+      <link>https://openai.com/index/fair-use-benefits-everyone</link>
+      <guid isPermaLink="true">https://openai.com/index/fair-use-benefits-everyone</guid>
+      <category>Company</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>より高性能で有益なAIのための更新されたモデル仕様(An updated Model Spec for more capable and beneficial AI)</title>
       <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.</description>
