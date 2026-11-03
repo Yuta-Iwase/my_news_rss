@@ -5,7 +5,37 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 01:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 23:47:44 GMT</lastBuildDate>
+    <item>
+      <title>Accelerating engineering for the physical world</title>
+      <description>Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.</description>
+      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
+      <guid isPermaLink="true">https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
+      <category>Research</category>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Cisco defends at machine speed with OpenAI</title>
+      <description>Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.</description>
+      <link>https://openai.com/index/cisco-cyber</link>
+      <guid isPermaLink="true">https://openai.com/index/cisco-cyber</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heimstaden is changing residential real estate management with AI</title>
+      <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.</description>
+      <link>https://openai.com/index/heimstaden</link>
+      <guid isPermaLink="true">https://openai.com/index/heimstaden</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
+      <description>Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.</description>
+      <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
+      <guid isPermaLink="true">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
+      <category>Company</category>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAIでのGitのスケーリング(Scaling Git at OpenAI)</title>
       <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
