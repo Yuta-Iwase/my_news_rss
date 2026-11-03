@@ -5,7 +5,31 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 22:31:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:24:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAIでのGitのスケーリング(Scaling Git at OpenAI)</title>
+      <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
+      <category>Engineering</category>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grid Protectors Programの紹介(Introducing the Grid Protectors Program)</title>
+      <description>OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.</description>
+      <link>https://openai.com/index/grid-protectors-program</link>
+      <guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
+      <category>Global Affairs</category>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LifeVal(LifeVal)</title>
+      <description>Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.</description>
+      <link>https://openai.com/index/lifeval</link>
+      <guid isPermaLink="true">https://openai.com/index/lifeval</guid>
+      <category>Research</category>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ウェブサイトがAI学習の選好を表現しやすくする(Making it easier for websites to express AI training preferences)</title>
       <description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.</description>
