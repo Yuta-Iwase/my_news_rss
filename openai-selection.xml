@@ -5,7 +5,39 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:49:36 GMT</lastBuildDate>
+    <item>
+      <title>介護者が日常生活でAIを活用するのを支援(Helping caregivers use AI in everyday life)</title>
+      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.</description>
+      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+      <guid isPermaLink="true">https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
+      <category>Company</category>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPTにおけるビジネス機能の導入(Introducing Businesses in ChatGPT)</title>
+      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.</description>
+      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-businesses-chatgpt</guid>
+      <category>Product</category>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>教育におけるAIガイダンスのギャップを埋める(Closing the AI guidance gap in education)</title>
+      <description>New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.</description>
+      <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
+      <guid isPermaLink="true">https://openai.com/index/closing-ai-guidance-gap-education</guid>
+      <category>Company</category>
+      <pubDate>Tue, 10 Nov 2026 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>フロンティアでの仕事：AIがフリーランスの仕事に与える影響(Work at the Frontier: AI’s effect on freelance work)</title>
+      <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.</description>
+      <link>https://openai.com/index/ai-effect-on-freelance-work</link>
+      <guid isPermaLink="true">https://openai.com/index/ai-effect-on-freelance-work</guid>
+      <category>Company</category>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT EnterpriseがAWS Marketplaceで利用可能に(ChatGPT Enterprise now available in AWS Marketplace)</title>
       <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
