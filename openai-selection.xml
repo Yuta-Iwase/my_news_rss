@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 22:35:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:47:52 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT EnterpriseがAWS Marketplaceで利用可能に(ChatGPT Enterprise now available in AWS Marketplace)</title>
+      <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.</description>
+      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+      <guid isPermaLink="true">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
+      <category>Product</category>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>コントロールルーム：研究インフラ全体でモデルのワークロードを追跡し停止する中央システム(Control Room: A central system to track and stop model workloads across our research infrastructure)</title>
+      <description>Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.</description>
+      <link>https://openai.com/index/control-room</link>
+      <guid isPermaLink="true">https://openai.com/index/control-room</guid>
+      <category>Safety</category>
+      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAIのシステムにおける脆弱性を見つけるためにHacktronと提携(Partnering with Hacktron to find vulnerabilities in OpenAI’s systems)</title>
       <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.</description>
