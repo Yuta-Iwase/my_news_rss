@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:55:36 GMT</lastBuildDate>
+    <item>
+      <title>AIと子供の安全に関する研究を支援(Supporting research on AI and children’s safety)</title>
+      <description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.</description>
+      <link>https://openai.com/index/children-first-declaration</link>
+      <guid isPermaLink="true">https://openai.com/index/children-first-declaration</guid>
+      <category>Global Affairs</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>退役軍人および現役軍人向けのChatGPT Plus(ChatGPT Plus for veterans and servicemembers)</title>
       <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.</description>
