@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:03:06 GMT</lastBuildDate>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+      <category>Product</category>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AIと子供の安全に関する研究を支援(Supporting research on AI and children’s safety)</title>
       <description>OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.</description>
