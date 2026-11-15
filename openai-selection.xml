@@ -5,7 +5,23 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:15:41 GMT</lastBuildDate>
+    <item>
+      <title>格子上の標準模型を定義する一歩(A step toward defining the Standard Model on a lattice)</title>
+      <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.</description>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+      <guid isPermaLink="true">https://openai.com/index/step-toward-defining-the-standard-model</guid>
+      <category>Science</category>
+      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>私たちの新しい科学ブログ(Our new blog for science)</title>
+      <description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.</description>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <guid isPermaLink="true">https://openai.com/index/our-new-blog-for-science</guid>
+      <category>Science</category>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Introducing ChatGPT Wallet</title>
       <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.</description>
