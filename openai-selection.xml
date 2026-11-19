@@ -5,7 +5,39 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:50:29 GMT</lastBuildDate>
+    <item>
+      <title>静かなる合意(The Silent Consensus)</title>
+      <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</description>
+      <link>https://openai.com/index/the-silent-consensus</link>
+      <guid isPermaLink="true">https://openai.com/index/the-silent-consensus</guid>
+      <category>Intelligence Age</category>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究の加速：でこぼこのフロンティア(Research acceleration: The jagged frontier)</title>
+      <description>OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.</description>
+      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+      <guid isPermaLink="true">https://openai.com/index/research-acceleration-jagged-frontier</guid>
+      <category>Research</category>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codexサンドボックスの内部(Inside the Codex sandbox)</title>
+      <description>See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.</description>
+      <link>https://openai.com/index/inside-the-codex-sandbox</link>
+      <guid isPermaLink="true">https://openai.com/index/inside-the-codex-sandbox</guid>
+      <category>Engineering</category>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>フロンティアAIリスクの管理：トレーニングから展開まで(Managing frontier AI risk: From training to deployment)</title>
+      <description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.</description>
+      <link>https://openai.com/index/managing-frontier-ai-risk</link>
+      <guid isPermaLink="true">https://openai.com/index/managing-frontier-ai-risk</guid>
+      <category>Safety</category>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Introducing GPT-6.2 Astra and Sol</title>
       <description>Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.</description>
