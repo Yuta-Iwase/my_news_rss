@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:58:06 GMT</lastBuildDate>
+    <item>
+      <title>OpenAIのパフォーマンスファクトリーがChatGPTを高速に保つ方法(How OpenAI’s Performance Factory keeps ChatGPT fast)</title>
+      <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <guid isPermaLink="true">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+      <category>Engineering</category>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>静かなる合意(The Silent Consensus)</title>
       <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.</description>
