@@ -5,7 +5,14 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 00:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:29:50 GMT</lastBuildDate>
+    <item>
+      <title>敵対的蒸留との戦い(Combatting adversarial distillation)</title>
+      <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
+      <link>https://openai.com/index/combatting-adversarial-distillation</link>
+      <guid isPermaLink="true">https://openai.com/index/combatting-adversarial-distillation</guid>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAIのパフォーマンスファクトリーがChatGPTを高速に保つ方法(How OpenAI’s Performance Factory keeps ChatGPT fast)</title>
       <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.</description>
