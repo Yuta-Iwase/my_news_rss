@@ -5,7 +5,15 @@
     <link>https://openai.com/news</link>
     <description>OpenAI News から選別された記事フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 23:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:56:19 GMT</lastBuildDate>
+    <item>
+      <title>複雑さと知能(Perplexity and Intelligence)</title>
+      <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <guid isPermaLink="true">https://openai.com/index/perplexity-and-intelligence</guid>
+      <category>Research</category>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>敵対的蒸留との戦い(Combatting adversarial distillation)</title>
       <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
